@@ -1,0 +1,6004 @@
+{
+  "demands": [
+    {
+      "zone_id": "ZON_0000",
+      "node_id": "ZON_0000",
+      "name": "Dogu ZON_0000",
+      "district": "Dogu",
+      "population": 22723,
+      "normal_demand_m3h": 78.612,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 78.612
+    },
+    {
+      "zone_id": "ZON_0001",
+      "node_id": "ZON_0001",
+      "name": "Dogu ZON_0001",
+      "district": "Dogu",
+      "population": 4352,
+      "normal_demand_m3h": 284.036,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 284.036
+    },
+    {
+      "zone_id": "ZON_0002",
+      "node_id": "ZON_0002",
+      "name": "Sanayi ZON_0002",
+      "district": "Sanayi",
+      "population": 20431,
+      "normal_demand_m3h": 46.756,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 46.756
+    },
+    {
+      "zone_id": "ZON_0003",
+      "node_id": "ZON_0003",
+      "name": "Dogu ZON_0003",
+      "district": "Dogu",
+      "population": 7467,
+      "normal_demand_m3h": 43.757,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 43.757
+    },
+    {
+      "zone_id": "ZON_0004",
+      "node_id": "ZON_0004",
+      "name": "Dogu ZON_0004",
+      "district": "Dogu",
+      "population": 1525,
+      "normal_demand_m3h": 56.027,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.027
+    },
+    {
+      "zone_id": "ZON_0005",
+      "node_id": "ZON_0005",
+      "name": "Sanayi ZON_0005",
+      "district": "Sanayi",
+      "population": 19316,
+      "normal_demand_m3h": 90.507,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 90.507
+    },
+    {
+      "zone_id": "ZON_0006",
+      "node_id": "ZON_0006",
+      "name": "Sanayi ZON_0006",
+      "district": "Sanayi",
+      "population": 36701,
+      "normal_demand_m3h": 130.211,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 130.211
+    },
+    {
+      "zone_id": "ZON_0007",
+      "node_id": "ZON_0007",
+      "name": "Dogu ZON_0007",
+      "district": "Dogu",
+      "population": 47189,
+      "normal_demand_m3h": 138.868,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 138.868
+    },
+    {
+      "zone_id": "ZON_0008",
+      "node_id": "ZON_0008",
+      "name": "Dogu ZON_0008",
+      "district": "Dogu",
+      "population": 21725,
+      "normal_demand_m3h": 169.979,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 169.979
+    },
+    {
+      "zone_id": "ZON_0009",
+      "node_id": "ZON_0009",
+      "name": "Dogu ZON_0009",
+      "district": "Dogu",
+      "population": 36481,
+      "normal_demand_m3h": 88.49,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 88.49
+    },
+    {
+      "zone_id": "ZON_0010",
+      "node_id": "ZON_0010",
+      "name": "Dogu ZON_0010",
+      "district": "Dogu",
+      "population": 22150,
+      "normal_demand_m3h": 74.016,
+      "critical_demand_m3h": 31.569,
+      "total_demand_m3h": 105.585
+    },
+    {
+      "zone_id": "ZON_0011",
+      "node_id": "ZON_0011",
+      "name": "Dogu ZON_0011",
+      "district": "Dogu",
+      "population": 32557,
+      "normal_demand_m3h": 260.537,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 260.537
+    },
+    {
+      "zone_id": "ZON_0012",
+      "node_id": "ZON_0012",
+      "name": "Sanayi ZON_0012",
+      "district": "Sanayi",
+      "population": 15882,
+      "normal_demand_m3h": 18.0,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 18.0
+    },
+    {
+      "zone_id": "ZON_0013",
+      "node_id": "ZON_0013",
+      "name": "Dogu ZON_0013",
+      "district": "Dogu",
+      "population": 29454,
+      "normal_demand_m3h": 98.387,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 98.387
+    },
+    {
+      "zone_id": "ZON_0014",
+      "node_id": "ZON_0014",
+      "name": "Dogu ZON_0014",
+      "district": "Dogu",
+      "population": 12001,
+      "normal_demand_m3h": 123.545,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 123.545
+    },
+    {
+      "zone_id": "ZON_0015",
+      "node_id": "ZON_0015",
+      "name": "Sanayi ZON_0015",
+      "district": "Sanayi",
+      "population": 39916,
+      "normal_demand_m3h": 302.38,
+      "critical_demand_m3h": 110.707,
+      "total_demand_m3h": 413.087
+    },
+    {
+      "zone_id": "ZON_0016",
+      "node_id": "ZON_0016",
+      "name": "Dogu ZON_0016",
+      "district": "Dogu",
+      "population": 18770,
+      "normal_demand_m3h": 33.8,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 33.8
+    },
+    {
+      "zone_id": "ZON_0017",
+      "node_id": "ZON_0017",
+      "name": "Dogu ZON_0017",
+      "district": "Dogu",
+      "population": 1488,
+      "normal_demand_m3h": 72.931,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 72.931
+    },
+    {
+      "zone_id": "ZON_0018",
+      "node_id": "ZON_0018",
+      "name": "Dogu ZON_0018",
+      "district": "Dogu",
+      "population": 3087,
+      "normal_demand_m3h": 40.784,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 40.784
+    },
+    {
+      "zone_id": "ZON_0019",
+      "node_id": "ZON_0019",
+      "name": "Dogu ZON_0019",
+      "district": "Dogu",
+      "population": 26441,
+      "normal_demand_m3h": 31.034,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 31.034
+    },
+    {
+      "zone_id": "ZON_0020",
+      "node_id": "ZON_0020",
+      "name": "Sanayi ZON_0020",
+      "district": "Sanayi",
+      "population": 39220,
+      "normal_demand_m3h": 83.362,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.362
+    },
+    {
+      "zone_id": "ZON_0021",
+      "node_id": "ZON_0021",
+      "name": "Dogu ZON_0021",
+      "district": "Dogu",
+      "population": 42873,
+      "normal_demand_m3h": 158.621,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 158.621
+    },
+    {
+      "zone_id": "ZON_0022",
+      "node_id": "ZON_0022",
+      "name": "Dogu ZON_0022",
+      "district": "Dogu",
+      "population": 40460,
+      "normal_demand_m3h": 199.877,
+      "critical_demand_m3h": 72.217,
+      "total_demand_m3h": 272.094
+    },
+    {
+      "zone_id": "ZON_0023",
+      "node_id": "ZON_0023",
+      "name": "Dogu ZON_0023",
+      "district": "Dogu",
+      "population": 22442,
+      "normal_demand_m3h": 68.05,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.05
+    },
+    {
+      "zone_id": "ZON_0024",
+      "node_id": "ZON_0024",
+      "name": "Sanayi ZON_0024",
+      "district": "Sanayi",
+      "population": 23711,
+      "normal_demand_m3h": 143.057,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 143.057
+    },
+    {
+      "zone_id": "ZON_0025",
+      "node_id": "ZON_0025",
+      "name": "Dogu ZON_0025",
+      "district": "Dogu",
+      "population": 4447,
+      "normal_demand_m3h": 83.715,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.715
+    },
+    {
+      "zone_id": "ZON_0026",
+      "node_id": "ZON_0026",
+      "name": "Sanayi ZON_0026",
+      "district": "Sanayi",
+      "population": 9104,
+      "normal_demand_m3h": 133.63,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 133.63
+    },
+    {
+      "zone_id": "ZON_0027",
+      "node_id": "ZON_0027",
+      "name": "Sanayi ZON_0027",
+      "district": "Sanayi",
+      "population": 11818,
+      "normal_demand_m3h": 193.596,
+      "critical_demand_m3h": 57.237,
+      "total_demand_m3h": 250.833
+    },
+    {
+      "zone_id": "ZON_0028",
+      "node_id": "ZON_0028",
+      "name": "Sanayi ZON_0028",
+      "district": "Sanayi",
+      "population": 22370,
+      "normal_demand_m3h": 83.896,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.896
+    },
+    {
+      "zone_id": "ZON_0029",
+      "node_id": "ZON_0029",
+      "name": "Dogu ZON_0029",
+      "district": "Dogu",
+      "population": 42323,
+      "normal_demand_m3h": 184.514,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 184.514
+    },
+    {
+      "zone_id": "ZON_0030",
+      "node_id": "ZON_0030",
+      "name": "Dogu ZON_0030",
+      "district": "Dogu",
+      "population": 46627,
+      "normal_demand_m3h": 44.608,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 44.608
+    },
+    {
+      "zone_id": "ZON_0031",
+      "node_id": "ZON_0031",
+      "name": "Sanayi ZON_0031",
+      "district": "Sanayi",
+      "population": 3653,
+      "normal_demand_m3h": 142.172,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 142.172
+    },
+    {
+      "zone_id": "ZON_0032",
+      "node_id": "ZON_0032",
+      "name": "Sanayi ZON_0032",
+      "district": "Sanayi",
+      "population": 17838,
+      "normal_demand_m3h": 179.626,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 179.626
+    },
+    {
+      "zone_id": "ZON_0033",
+      "node_id": "ZON_0033",
+      "name": "Sanayi ZON_0033",
+      "district": "Sanayi",
+      "population": 25595,
+      "normal_demand_m3h": 168.465,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 168.465
+    },
+    {
+      "zone_id": "ZON_0034",
+      "node_id": "ZON_0034",
+      "name": "Dogu ZON_0034",
+      "district": "Dogu",
+      "population": 11303,
+      "normal_demand_m3h": 45.39,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 45.39
+    },
+    {
+      "zone_id": "ZON_0035",
+      "node_id": "ZON_0035",
+      "name": "Dogu ZON_0035",
+      "district": "Dogu",
+      "population": 44658,
+      "normal_demand_m3h": 83.296,
+      "critical_demand_m3h": 42.235,
+      "total_demand_m3h": 125.531
+    },
+    {
+      "zone_id": "ZON_0036",
+      "node_id": "ZON_0036",
+      "name": "Dogu ZON_0036",
+      "district": "Dogu",
+      "population": 1899,
+      "normal_demand_m3h": 114.131,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 114.131
+    },
+    {
+      "zone_id": "ZON_0037",
+      "node_id": "ZON_0037",
+      "name": "Dogu ZON_0037",
+      "district": "Dogu",
+      "population": 19440,
+      "normal_demand_m3h": 124.548,
+      "critical_demand_m3h": 25.265,
+      "total_demand_m3h": 149.813
+    },
+    {
+      "zone_id": "ZON_0038",
+      "node_id": "ZON_0038",
+      "name": "Sanayi ZON_0038",
+      "district": "Sanayi",
+      "population": 36424,
+      "normal_demand_m3h": 101.681,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.681
+    },
+    {
+      "zone_id": "ZON_0039",
+      "node_id": "ZON_0039",
+      "name": "Sanayi ZON_0039",
+      "district": "Sanayi",
+      "population": 43083,
+      "normal_demand_m3h": 229.544,
+      "critical_demand_m3h": 62.543,
+      "total_demand_m3h": 292.087
+    },
+    {
+      "zone_id": "ZON_0040",
+      "node_id": "ZON_0040",
+      "name": "Dogu ZON_0040",
+      "district": "Dogu",
+      "population": 4299,
+      "normal_demand_m3h": 42.381,
+      "critical_demand_m3h": 9.738,
+      "total_demand_m3h": 52.119
+    },
+    {
+      "zone_id": "ZON_0041",
+      "node_id": "ZON_0041",
+      "name": "Sanayi ZON_0041",
+      "district": "Sanayi",
+      "population": 24940,
+      "normal_demand_m3h": 81.536,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.536
+    },
+    {
+      "zone_id": "ZON_0042",
+      "node_id": "ZON_0042",
+      "name": "Sanayi ZON_0042",
+      "district": "Sanayi",
+      "population": 8456,
+      "normal_demand_m3h": 33.234,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 33.234
+    },
+    {
+      "zone_id": "ZON_0043",
+      "node_id": "ZON_0043",
+      "name": "Sanayi ZON_0043",
+      "district": "Sanayi",
+      "population": 20253,
+      "normal_demand_m3h": 139.097,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 139.097
+    },
+    {
+      "zone_id": "ZON_0044",
+      "node_id": "ZON_0044",
+      "name": "Sanayi ZON_0044",
+      "district": "Sanayi",
+      "population": 28740,
+      "normal_demand_m3h": 133.468,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 133.468
+    },
+    {
+      "zone_id": "ZON_0045",
+      "node_id": "ZON_0045",
+      "name": "Sanayi ZON_0045",
+      "district": "Sanayi",
+      "population": 33883,
+      "normal_demand_m3h": 754.559,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 754.559
+    },
+    {
+      "zone_id": "ZON_0046",
+      "node_id": "ZON_0046",
+      "name": "Dogu ZON_0046",
+      "district": "Dogu",
+      "population": 27860,
+      "normal_demand_m3h": 178.813,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 178.813
+    },
+    {
+      "zone_id": "ZON_0047",
+      "node_id": "ZON_0047",
+      "name": "Sanayi ZON_0047",
+      "district": "Sanayi",
+      "population": 32648,
+      "normal_demand_m3h": 116.216,
+      "critical_demand_m3h": 50.154,
+      "total_demand_m3h": 166.369
+    },
+    {
+      "zone_id": "ZON_0048",
+      "node_id": "ZON_0048",
+      "name": "Sanayi ZON_0048",
+      "district": "Sanayi",
+      "population": 37218,
+      "normal_demand_m3h": 110.834,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 110.834
+    },
+    {
+      "zone_id": "ZON_0049",
+      "node_id": "ZON_0049",
+      "name": "Sanayi ZON_0049",
+      "district": "Sanayi",
+      "population": 11513,
+      "normal_demand_m3h": 77.766,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.766
+    },
+    {
+      "zone_id": "ZON_0050",
+      "node_id": "ZON_0050",
+      "name": "Dogu ZON_0050",
+      "district": "Dogu",
+      "population": 47072,
+      "normal_demand_m3h": 102.607,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 102.607
+    },
+    {
+      "zone_id": "ZON_0051",
+      "node_id": "ZON_0051",
+      "name": "Dogu ZON_0051",
+      "district": "Dogu",
+      "population": 44229,
+      "normal_demand_m3h": 112.311,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 112.311
+    },
+    {
+      "zone_id": "ZON_0052",
+      "node_id": "ZON_0052",
+      "name": "Dogu ZON_0052",
+      "district": "Dogu",
+      "population": 21781,
+      "normal_demand_m3h": 27.99,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 27.99
+    },
+    {
+      "zone_id": "ZON_0053",
+      "node_id": "ZON_0053",
+      "name": "Dogu ZON_0053",
+      "district": "Dogu",
+      "population": 10744,
+      "normal_demand_m3h": 106.921,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 106.921
+    },
+    {
+      "zone_id": "ZON_0054",
+      "node_id": "ZON_0054",
+      "name": "Dogu ZON_0054",
+      "district": "Dogu",
+      "population": 45292,
+      "normal_demand_m3h": 100.748,
+      "critical_demand_m3h": 54.412,
+      "total_demand_m3h": 155.16
+    },
+    {
+      "zone_id": "ZON_0055",
+      "node_id": "ZON_0055",
+      "name": "Sanayi ZON_0055",
+      "district": "Sanayi",
+      "population": 6239,
+      "normal_demand_m3h": 280.757,
+      "critical_demand_m3h": 113.777,
+      "total_demand_m3h": 394.533
+    },
+    {
+      "zone_id": "ZON_0056",
+      "node_id": "ZON_0056",
+      "name": "Sanayi ZON_0056",
+      "district": "Sanayi",
+      "population": 30109,
+      "normal_demand_m3h": 87.214,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 87.214
+    },
+    {
+      "zone_id": "ZON_0057",
+      "node_id": "ZON_0057",
+      "name": "Dogu ZON_0057",
+      "district": "Dogu",
+      "population": 43853,
+      "normal_demand_m3h": 58.872,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 58.872
+    },
+    {
+      "zone_id": "ZON_0058",
+      "node_id": "ZON_0058",
+      "name": "Sanayi ZON_0058",
+      "district": "Sanayi",
+      "population": 44629,
+      "normal_demand_m3h": 111.775,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 111.775
+    },
+    {
+      "zone_id": "ZON_0059",
+      "node_id": "ZON_0059",
+      "name": "Dogu ZON_0059",
+      "district": "Dogu",
+      "population": 31787,
+      "normal_demand_m3h": 99.097,
+      "critical_demand_m3h": 25.665,
+      "total_demand_m3h": 124.761
+    },
+    {
+      "zone_id": "ZON_0060",
+      "node_id": "ZON_0060",
+      "name": "Dogu ZON_0060",
+      "district": "Dogu",
+      "population": 47310,
+      "normal_demand_m3h": 87.272,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 87.272
+    },
+    {
+      "zone_id": "ZON_0061",
+      "node_id": "ZON_0061",
+      "name": "Sanayi ZON_0061",
+      "district": "Sanayi",
+      "population": 13705,
+      "normal_demand_m3h": 42.821,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 42.821
+    },
+    {
+      "zone_id": "ZON_0062",
+      "node_id": "ZON_0062",
+      "name": "Sanayi ZON_0062",
+      "district": "Sanayi",
+      "population": 40608,
+      "normal_demand_m3h": 85.907,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 85.907
+    },
+    {
+      "zone_id": "ZON_0063",
+      "node_id": "ZON_0063",
+      "name": "Dogu ZON_0063",
+      "district": "Dogu",
+      "population": 20572,
+      "normal_demand_m3h": 66.082,
+      "critical_demand_m3h": 14.645,
+      "total_demand_m3h": 80.727
+    },
+    {
+      "zone_id": "ZON_0064",
+      "node_id": "ZON_0064",
+      "name": "Dogu ZON_0064",
+      "district": "Dogu",
+      "population": 42483,
+      "normal_demand_m3h": 82.746,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 82.746
+    },
+    {
+      "zone_id": "ZON_0065",
+      "node_id": "ZON_0065",
+      "name": "Dogu ZON_0065",
+      "district": "Dogu",
+      "population": 17526,
+      "normal_demand_m3h": 148.998,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 148.998
+    },
+    {
+      "zone_id": "ZON_0066",
+      "node_id": "ZON_0066",
+      "name": "Sanayi ZON_0066",
+      "district": "Sanayi",
+      "population": 15290,
+      "normal_demand_m3h": 62.29,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 62.29
+    },
+    {
+      "zone_id": "ZON_0067",
+      "node_id": "ZON_0067",
+      "name": "Sanayi ZON_0067",
+      "district": "Sanayi",
+      "population": 23417,
+      "normal_demand_m3h": 82.503,
+      "critical_demand_m3h": 18.447,
+      "total_demand_m3h": 100.95
+    },
+    {
+      "zone_id": "ZON_0068",
+      "node_id": "ZON_0068",
+      "name": "Sanayi ZON_0068",
+      "district": "Sanayi",
+      "population": 47030,
+      "normal_demand_m3h": 132.363,
+      "critical_demand_m3h": 60.427,
+      "total_demand_m3h": 192.79
+    },
+    {
+      "zone_id": "ZON_0069",
+      "node_id": "ZON_0069",
+      "name": "Dogu ZON_0069",
+      "district": "Dogu",
+      "population": 5485,
+      "normal_demand_m3h": 80.076,
+      "critical_demand_m3h": 15.685,
+      "total_demand_m3h": 95.761
+    },
+    {
+      "zone_id": "ZON_0070",
+      "node_id": "ZON_0070",
+      "name": "Dogu ZON_0070",
+      "district": "Dogu",
+      "population": 12166,
+      "normal_demand_m3h": 477.085,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 477.085
+    },
+    {
+      "zone_id": "ZON_0071",
+      "node_id": "ZON_0071",
+      "name": "Sanayi ZON_0071",
+      "district": "Sanayi",
+      "population": 21585,
+      "normal_demand_m3h": 110.421,
+      "critical_demand_m3h": 58.087,
+      "total_demand_m3h": 168.508
+    },
+    {
+      "zone_id": "ZON_0072",
+      "node_id": "ZON_0072",
+      "name": "Sanayi ZON_0072",
+      "district": "Sanayi",
+      "population": 41428,
+      "normal_demand_m3h": 43.817,
+      "critical_demand_m3h": 23.251,
+      "total_demand_m3h": 67.068
+    },
+    {
+      "zone_id": "ZON_0073",
+      "node_id": "ZON_0073",
+      "name": "Sanayi ZON_0073",
+      "district": "Sanayi",
+      "population": 47632,
+      "normal_demand_m3h": 56.24,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.24
+    },
+    {
+      "zone_id": "ZON_0074",
+      "node_id": "ZON_0074",
+      "name": "Dogu ZON_0074",
+      "district": "Dogu",
+      "population": 22297,
+      "normal_demand_m3h": 52.839,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 52.839
+    },
+    {
+      "zone_id": "ZON_0075",
+      "node_id": "ZON_0075",
+      "name": "Dogu ZON_0075",
+      "district": "Dogu",
+      "population": 33989,
+      "normal_demand_m3h": 56.74,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.74
+    },
+    {
+      "zone_id": "ZON_0076",
+      "node_id": "ZON_0076",
+      "name": "Dogu ZON_0076",
+      "district": "Dogu",
+      "population": 2363,
+      "normal_demand_m3h": 132.016,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 132.016
+    },
+    {
+      "zone_id": "ZON_0077",
+      "node_id": "ZON_0077",
+      "name": "Sanayi ZON_0077",
+      "district": "Sanayi",
+      "population": 37780,
+      "normal_demand_m3h": 47.654,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 47.654
+    },
+    {
+      "zone_id": "ZON_0078",
+      "node_id": "ZON_0078",
+      "name": "Sanayi ZON_0078",
+      "district": "Sanayi",
+      "population": 46734,
+      "normal_demand_m3h": 77.065,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.065
+    },
+    {
+      "zone_id": "ZON_0079",
+      "node_id": "ZON_0079",
+      "name": "Sanayi ZON_0079",
+      "district": "Sanayi",
+      "population": 10335,
+      "normal_demand_m3h": 192.194,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 192.194
+    },
+    {
+      "zone_id": "ZON_0080",
+      "node_id": "ZON_0080",
+      "name": "Dogu ZON_0080",
+      "district": "Dogu",
+      "population": 1671,
+      "normal_demand_m3h": 68.562,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.562
+    },
+    {
+      "zone_id": "ZON_0081",
+      "node_id": "ZON_0081",
+      "name": "Sanayi ZON_0081",
+      "district": "Sanayi",
+      "population": 3256,
+      "normal_demand_m3h": 143.498,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 143.498
+    },
+    {
+      "zone_id": "ZON_0082",
+      "node_id": "ZON_0082",
+      "name": "Sanayi ZON_0082",
+      "district": "Sanayi",
+      "population": 41266,
+      "normal_demand_m3h": 33.333,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 33.333
+    },
+    {
+      "zone_id": "ZON_0083",
+      "node_id": "ZON_0083",
+      "name": "Dogu ZON_0083",
+      "district": "Dogu",
+      "population": 8941,
+      "normal_demand_m3h": 75.205,
+      "critical_demand_m3h": 21.921,
+      "total_demand_m3h": 97.126
+    },
+    {
+      "zone_id": "ZON_0084",
+      "node_id": "ZON_0084",
+      "name": "Dogu ZON_0084",
+      "district": "Dogu",
+      "population": 20308,
+      "normal_demand_m3h": 54.637,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 54.637
+    },
+    {
+      "zone_id": "ZON_0085",
+      "node_id": "ZON_0085",
+      "name": "Sanayi ZON_0085",
+      "district": "Sanayi",
+      "population": 44458,
+      "normal_demand_m3h": 113.961,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 113.961
+    },
+    {
+      "zone_id": "ZON_0086",
+      "node_id": "ZON_0086",
+      "name": "Sanayi ZON_0086",
+      "district": "Sanayi",
+      "population": 28003,
+      "normal_demand_m3h": 49.821,
+      "critical_demand_m3h": 21.671,
+      "total_demand_m3h": 71.492
+    },
+    {
+      "zone_id": "ZON_0087",
+      "node_id": "ZON_0087",
+      "name": "Dogu ZON_0087",
+      "district": "Dogu",
+      "population": 18578,
+      "normal_demand_m3h": 341.445,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 341.445
+    },
+    {
+      "zone_id": "ZON_0088",
+      "node_id": "ZON_0088",
+      "name": "Sanayi ZON_0088",
+      "district": "Sanayi",
+      "population": 13223,
+      "normal_demand_m3h": 34.246,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 34.246
+    },
+    {
+      "zone_id": "ZON_0089",
+      "node_id": "ZON_0089",
+      "name": "Sanayi ZON_0089",
+      "district": "Sanayi",
+      "population": 14311,
+      "normal_demand_m3h": 191.365,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 191.365
+    },
+    {
+      "zone_id": "ZON_0090",
+      "node_id": "ZON_0090",
+      "name": "Dogu ZON_0090",
+      "district": "Dogu",
+      "population": 25887,
+      "normal_demand_m3h": 163.127,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 163.127
+    },
+    {
+      "zone_id": "ZON_0091",
+      "node_id": "ZON_0091",
+      "name": "Sanayi ZON_0091",
+      "district": "Sanayi",
+      "population": 20113,
+      "normal_demand_m3h": 114.676,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 114.676
+    },
+    {
+      "zone_id": "ZON_0092",
+      "node_id": "ZON_0092",
+      "name": "Dogu ZON_0092",
+      "district": "Dogu",
+      "population": 20151,
+      "normal_demand_m3h": 97.881,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 97.881
+    },
+    {
+      "zone_id": "ZON_0093",
+      "node_id": "ZON_0093",
+      "name": "Sanayi ZON_0093",
+      "district": "Sanayi",
+      "population": 18465,
+      "normal_demand_m3h": 298.89,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 298.89
+    },
+    {
+      "zone_id": "ZON_0094",
+      "node_id": "ZON_0094",
+      "name": "Dogu ZON_0094",
+      "district": "Dogu",
+      "population": 44286,
+      "normal_demand_m3h": 437.903,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 437.903
+    },
+    {
+      "zone_id": "ZON_0095",
+      "node_id": "ZON_0095",
+      "name": "Dogu ZON_0095",
+      "district": "Dogu",
+      "population": 31307,
+      "normal_demand_m3h": 83.221,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.221
+    },
+    {
+      "zone_id": "ZON_0096",
+      "node_id": "ZON_0096",
+      "name": "Sanayi ZON_0096",
+      "district": "Sanayi",
+      "population": 42963,
+      "normal_demand_m3h": 104.357,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 104.357
+    },
+    {
+      "zone_id": "ZON_0097",
+      "node_id": "ZON_0097",
+      "name": "Dogu ZON_0097",
+      "district": "Dogu",
+      "population": 44637,
+      "normal_demand_m3h": 67.189,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 67.189
+    },
+    {
+      "zone_id": "ZON_0098",
+      "node_id": "ZON_0098",
+      "name": "Sanayi ZON_0098",
+      "district": "Sanayi",
+      "population": 30091,
+      "normal_demand_m3h": 45.835,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 45.835
+    },
+    {
+      "zone_id": "ZON_0099",
+      "node_id": "ZON_0099",
+      "name": "Sanayi ZON_0099",
+      "district": "Sanayi",
+      "population": 5491,
+      "normal_demand_m3h": 126.107,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 126.107
+    },
+    {
+      "zone_id": "ZON_0100",
+      "node_id": "ZON_0100",
+      "name": "Dogu ZON_0100",
+      "district": "Dogu",
+      "population": 46379,
+      "normal_demand_m3h": 110.472,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 110.472
+    },
+    {
+      "zone_id": "ZON_0101",
+      "node_id": "ZON_0101",
+      "name": "Dogu ZON_0101",
+      "district": "Dogu",
+      "population": 23583,
+      "normal_demand_m3h": 34.871,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 34.871
+    },
+    {
+      "zone_id": "ZON_0102",
+      "node_id": "ZON_0102",
+      "name": "Dogu ZON_0102",
+      "district": "Dogu",
+      "population": 18755,
+      "normal_demand_m3h": 125.552,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 125.552
+    },
+    {
+      "zone_id": "ZON_0103",
+      "node_id": "ZON_0103",
+      "name": "Dogu ZON_0103",
+      "district": "Dogu",
+      "population": 20555,
+      "normal_demand_m3h": 112.792,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 112.792
+    },
+    {
+      "zone_id": "ZON_0104",
+      "node_id": "ZON_0104",
+      "name": "Sanayi ZON_0104",
+      "district": "Sanayi",
+      "population": 5317,
+      "normal_demand_m3h": 65.185,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 65.185
+    },
+    {
+      "zone_id": "ZON_0105",
+      "node_id": "ZON_0105",
+      "name": "Sanayi ZON_0105",
+      "district": "Sanayi",
+      "population": 32286,
+      "normal_demand_m3h": 62.599,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 62.599
+    },
+    {
+      "zone_id": "ZON_0106",
+      "node_id": "ZON_0106",
+      "name": "Dogu ZON_0106",
+      "district": "Dogu",
+      "population": 3430,
+      "normal_demand_m3h": 123.069,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 123.069
+    },
+    {
+      "zone_id": "ZON_0107",
+      "node_id": "ZON_0107",
+      "name": "Dogu ZON_0107",
+      "district": "Dogu",
+      "population": 32705,
+      "normal_demand_m3h": 256.597,
+      "critical_demand_m3h": 82.596,
+      "total_demand_m3h": 339.193
+    },
+    {
+      "zone_id": "ZON_0108",
+      "node_id": "ZON_0108",
+      "name": "Dogu ZON_0108",
+      "district": "Dogu",
+      "population": 41460,
+      "normal_demand_m3h": 121.147,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 121.147
+    },
+    {
+      "zone_id": "ZON_0109",
+      "node_id": "ZON_0109",
+      "name": "Sanayi ZON_0109",
+      "district": "Sanayi",
+      "population": 1596,
+      "normal_demand_m3h": 153.531,
+      "critical_demand_m3h": 28.27,
+      "total_demand_m3h": 181.801
+    },
+    {
+      "zone_id": "ZON_0110",
+      "node_id": "ZON_0110",
+      "name": "Sanayi ZON_0110",
+      "district": "Sanayi",
+      "population": 25940,
+      "normal_demand_m3h": 56.489,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.489
+    },
+    {
+      "zone_id": "ZON_0111",
+      "node_id": "ZON_0111",
+      "name": "Sanayi ZON_0111",
+      "district": "Sanayi",
+      "population": 36943,
+      "normal_demand_m3h": 73.197,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 73.197
+    },
+    {
+      "zone_id": "ZON_0112",
+      "node_id": "ZON_0112",
+      "name": "Sanayi ZON_0112",
+      "district": "Sanayi",
+      "population": 40420,
+      "normal_demand_m3h": 137.961,
+      "critical_demand_m3h": 47.88,
+      "total_demand_m3h": 185.841
+    },
+    {
+      "zone_id": "ZON_0113",
+      "node_id": "ZON_0113",
+      "name": "Sanayi ZON_0113",
+      "district": "Sanayi",
+      "population": 6808,
+      "normal_demand_m3h": 40.765,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 40.765
+    },
+    {
+      "zone_id": "ZON_0114",
+      "node_id": "ZON_0114",
+      "name": "Sanayi ZON_0114",
+      "district": "Sanayi",
+      "population": 31339,
+      "normal_demand_m3h": 107.605,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 107.605
+    },
+    {
+      "zone_id": "ZON_0115",
+      "node_id": "ZON_0115",
+      "name": "Sanayi ZON_0115",
+      "district": "Sanayi",
+      "population": 30439,
+      "normal_demand_m3h": 128.499,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 128.499
+    },
+    {
+      "zone_id": "ZON_0116",
+      "node_id": "ZON_0116",
+      "name": "Sanayi ZON_0116",
+      "district": "Sanayi",
+      "population": 18269,
+      "normal_demand_m3h": 92.398,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 92.398
+    },
+    {
+      "zone_id": "ZON_0117",
+      "node_id": "ZON_0117",
+      "name": "Dogu ZON_0117",
+      "district": "Dogu",
+      "population": 44592,
+      "normal_demand_m3h": 115.355,
+      "critical_demand_m3h": 34.405,
+      "total_demand_m3h": 149.76
+    },
+    {
+      "zone_id": "ZON_0118",
+      "node_id": "ZON_0118",
+      "name": "Sanayi ZON_0118",
+      "district": "Sanayi",
+      "population": 40444,
+      "normal_demand_m3h": 98.086,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 98.086
+    },
+    {
+      "zone_id": "ZON_0119",
+      "node_id": "ZON_0119",
+      "name": "Dogu ZON_0119",
+      "district": "Dogu",
+      "population": 3661,
+      "normal_demand_m3h": 64.345,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 64.345
+    },
+    {
+      "zone_id": "ZON_0120",
+      "node_id": "ZON_0120",
+      "name": "Sanayi ZON_0120",
+      "district": "Sanayi",
+      "population": 14308,
+      "normal_demand_m3h": 45.585,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 45.585
+    },
+    {
+      "zone_id": "ZON_0121",
+      "node_id": "ZON_0121",
+      "name": "Dogu ZON_0121",
+      "district": "Dogu",
+      "population": 21837,
+      "normal_demand_m3h": 89.479,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 89.479
+    },
+    {
+      "zone_id": "ZON_0122",
+      "node_id": "ZON_0122",
+      "name": "Sanayi ZON_0122",
+      "district": "Sanayi",
+      "population": 32397,
+      "normal_demand_m3h": 212.468,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 212.468
+    },
+    {
+      "zone_id": "ZON_0123",
+      "node_id": "ZON_0123",
+      "name": "Sanayi ZON_0123",
+      "district": "Sanayi",
+      "population": 11805,
+      "normal_demand_m3h": 178.594,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 178.594
+    },
+    {
+      "zone_id": "ZON_0124",
+      "node_id": "ZON_0124",
+      "name": "Dogu ZON_0124",
+      "district": "Dogu",
+      "population": 20626,
+      "normal_demand_m3h": 76.393,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 76.393
+    },
+    {
+      "zone_id": "ZON_0125",
+      "node_id": "ZON_0125",
+      "name": "Sanayi ZON_0125",
+      "district": "Sanayi",
+      "population": 5535,
+      "normal_demand_m3h": 75.416,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 75.416
+    },
+    {
+      "zone_id": "ZON_0126",
+      "node_id": "ZON_0126",
+      "name": "Sanayi ZON_0126",
+      "district": "Sanayi",
+      "population": 5935,
+      "normal_demand_m3h": 72.051,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 72.051
+    },
+    {
+      "zone_id": "ZON_0127",
+      "node_id": "ZON_0127",
+      "name": "Sanayi ZON_0127",
+      "district": "Sanayi",
+      "population": 21555,
+      "normal_demand_m3h": 72.057,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 72.057
+    },
+    {
+      "zone_id": "ZON_0128",
+      "node_id": "ZON_0128",
+      "name": "Sanayi ZON_0128",
+      "district": "Sanayi",
+      "population": 30883,
+      "normal_demand_m3h": 113.115,
+      "critical_demand_m3h": 36.392,
+      "total_demand_m3h": 149.507
+    },
+    {
+      "zone_id": "ZON_0129",
+      "node_id": "ZON_0129",
+      "name": "Dogu ZON_0129",
+      "district": "Dogu",
+      "population": 17252,
+      "normal_demand_m3h": 182.297,
+      "critical_demand_m3h": 35.619,
+      "total_demand_m3h": 217.916
+    },
+    {
+      "zone_id": "ZON_0130",
+      "node_id": "ZON_0130",
+      "name": "Dogu ZON_0130",
+      "district": "Dogu",
+      "population": 10792,
+      "normal_demand_m3h": 384.884,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 384.884
+    },
+    {
+      "zone_id": "ZON_0131",
+      "node_id": "ZON_0131",
+      "name": "Sanayi ZON_0131",
+      "district": "Sanayi",
+      "population": 26324,
+      "normal_demand_m3h": 56.571,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.571
+    },
+    {
+      "zone_id": "ZON_0132",
+      "node_id": "ZON_0132",
+      "name": "Sanayi ZON_0132",
+      "district": "Sanayi",
+      "population": 33979,
+      "normal_demand_m3h": 141.703,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 141.703
+    },
+    {
+      "zone_id": "ZON_0133",
+      "node_id": "ZON_0133",
+      "name": "Dogu ZON_0133",
+      "district": "Dogu",
+      "population": 12995,
+      "normal_demand_m3h": 132.456,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 132.456
+    },
+    {
+      "zone_id": "ZON_0134",
+      "node_id": "ZON_0134",
+      "name": "Dogu ZON_0134",
+      "district": "Dogu",
+      "population": 23086,
+      "normal_demand_m3h": 77.135,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.135
+    },
+    {
+      "zone_id": "ZON_0135",
+      "node_id": "ZON_0135",
+      "name": "Dogu ZON_0135",
+      "district": "Dogu",
+      "population": 11424,
+      "normal_demand_m3h": 50.093,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 50.093
+    },
+    {
+      "zone_id": "ZON_0136",
+      "node_id": "ZON_0136",
+      "name": "Sanayi ZON_0136",
+      "district": "Sanayi",
+      "population": 23030,
+      "normal_demand_m3h": 112.25,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 112.25
+    },
+    {
+      "zone_id": "ZON_0137",
+      "node_id": "ZON_0137",
+      "name": "Sanayi ZON_0137",
+      "district": "Sanayi",
+      "population": 18894,
+      "normal_demand_m3h": 352.244,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 352.244
+    },
+    {
+      "zone_id": "ZON_0138",
+      "node_id": "ZON_0138",
+      "name": "Sanayi ZON_0138",
+      "district": "Sanayi",
+      "population": 1312,
+      "normal_demand_m3h": 111.811,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 111.811
+    },
+    {
+      "zone_id": "ZON_0139",
+      "node_id": "ZON_0139",
+      "name": "Sanayi ZON_0139",
+      "district": "Sanayi",
+      "population": 32332,
+      "normal_demand_m3h": 58.086,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 58.086
+    },
+    {
+      "zone_id": "ZON_0140",
+      "node_id": "ZON_0140",
+      "name": "Dogu ZON_0140",
+      "district": "Dogu",
+      "population": 15370,
+      "normal_demand_m3h": 85.841,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 85.841
+    },
+    {
+      "zone_id": "ZON_0141",
+      "node_id": "ZON_0141",
+      "name": "Sanayi ZON_0141",
+      "district": "Sanayi",
+      "population": 36199,
+      "normal_demand_m3h": 46.67,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 46.67
+    },
+    {
+      "zone_id": "ZON_0142",
+      "node_id": "ZON_0142",
+      "name": "Sanayi ZON_0142",
+      "district": "Sanayi",
+      "population": 32531,
+      "normal_demand_m3h": 95.725,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 95.725
+    },
+    {
+      "zone_id": "ZON_0143",
+      "node_id": "ZON_0143",
+      "name": "Sanayi ZON_0143",
+      "district": "Sanayi",
+      "population": 10330,
+      "normal_demand_m3h": 144.563,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 144.563
+    },
+    {
+      "zone_id": "ZON_0144",
+      "node_id": "ZON_0144",
+      "name": "Sanayi ZON_0144",
+      "district": "Sanayi",
+      "population": 26502,
+      "normal_demand_m3h": 61.595,
+      "critical_demand_m3h": 24.169,
+      "total_demand_m3h": 85.764
+    },
+    {
+      "zone_id": "ZON_0145",
+      "node_id": "ZON_0145",
+      "name": "Dogu ZON_0145",
+      "district": "Dogu",
+      "population": 27292,
+      "normal_demand_m3h": 18.0,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 18.0
+    },
+    {
+      "zone_id": "ZON_0146",
+      "node_id": "ZON_0146",
+      "name": "Dogu ZON_0146",
+      "district": "Dogu",
+      "population": 23210,
+      "normal_demand_m3h": 112.355,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 112.355
+    },
+    {
+      "zone_id": "ZON_0147",
+      "node_id": "ZON_0147",
+      "name": "Sanayi ZON_0147",
+      "district": "Sanayi",
+      "population": 4011,
+      "normal_demand_m3h": 69.341,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 69.341
+    },
+    {
+      "zone_id": "ZON_0148",
+      "node_id": "ZON_0148",
+      "name": "Sanayi ZON_0148",
+      "district": "Sanayi",
+      "population": 32952,
+      "normal_demand_m3h": 59.417,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.417
+    },
+    {
+      "zone_id": "ZON_0149",
+      "node_id": "ZON_0149",
+      "name": "Dogu ZON_0149",
+      "district": "Dogu",
+      "population": 45791,
+      "normal_demand_m3h": 59.1,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.1
+    },
+    {
+      "zone_id": "ZON_0150",
+      "node_id": "ZON_0150",
+      "name": "Sanayi ZON_0150",
+      "district": "Sanayi",
+      "population": 38552,
+      "normal_demand_m3h": 121.287,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 121.287
+    },
+    {
+      "zone_id": "ZON_0151",
+      "node_id": "ZON_0151",
+      "name": "Sanayi ZON_0151",
+      "district": "Sanayi",
+      "population": 3948,
+      "normal_demand_m3h": 73.486,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 73.486
+    },
+    {
+      "zone_id": "ZON_0152",
+      "node_id": "ZON_0152",
+      "name": "Sanayi ZON_0152",
+      "district": "Sanayi",
+      "population": 11527,
+      "normal_demand_m3h": 168.49,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 168.49
+    },
+    {
+      "zone_id": "ZON_0153",
+      "node_id": "ZON_0153",
+      "name": "Dogu ZON_0153",
+      "district": "Dogu",
+      "population": 40170,
+      "normal_demand_m3h": 170.805,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 170.805
+    },
+    {
+      "zone_id": "ZON_0154",
+      "node_id": "ZON_0154",
+      "name": "Dogu ZON_0154",
+      "district": "Dogu",
+      "population": 34614,
+      "normal_demand_m3h": 80.015,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 80.015
+    },
+    {
+      "zone_id": "ZON_0155",
+      "node_id": "ZON_0155",
+      "name": "Sanayi ZON_0155",
+      "district": "Sanayi",
+      "population": 5392,
+      "normal_demand_m3h": 68.516,
+      "critical_demand_m3h": 13.139,
+      "total_demand_m3h": 81.655
+    },
+    {
+      "zone_id": "ZON_0156",
+      "node_id": "ZON_0156",
+      "name": "Sanayi ZON_0156",
+      "district": "Sanayi",
+      "population": 4695,
+      "normal_demand_m3h": 102.43,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 102.43
+    },
+    {
+      "zone_id": "ZON_0157",
+      "node_id": "ZON_0157",
+      "name": "Sanayi ZON_0157",
+      "district": "Sanayi",
+      "population": 39811,
+      "normal_demand_m3h": 86.475,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 86.475
+    },
+    {
+      "zone_id": "ZON_0158",
+      "node_id": "ZON_0158",
+      "name": "Sanayi ZON_0158",
+      "district": "Sanayi",
+      "population": 3378,
+      "normal_demand_m3h": 31.927,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 31.927
+    },
+    {
+      "zone_id": "ZON_0159",
+      "node_id": "ZON_0159",
+      "name": "Dogu ZON_0159",
+      "district": "Dogu",
+      "population": 27062,
+      "normal_demand_m3h": 310.053,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 310.053
+    },
+    {
+      "zone_id": "ZON_0160",
+      "node_id": "ZON_0160",
+      "name": "Sanayi ZON_0160",
+      "district": "Sanayi",
+      "population": 14312,
+      "normal_demand_m3h": 147.361,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 147.361
+    },
+    {
+      "zone_id": "ZON_0161",
+      "node_id": "ZON_0161",
+      "name": "Dogu ZON_0161",
+      "district": "Dogu",
+      "population": 36606,
+      "normal_demand_m3h": 70.997,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.997
+    },
+    {
+      "zone_id": "ZON_0162",
+      "node_id": "ZON_0162",
+      "name": "Dogu ZON_0162",
+      "district": "Dogu",
+      "population": 7151,
+      "normal_demand_m3h": 28.842,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 28.842
+    },
+    {
+      "zone_id": "ZON_0163",
+      "node_id": "ZON_0163",
+      "name": "Sanayi ZON_0163",
+      "district": "Sanayi",
+      "population": 43802,
+      "normal_demand_m3h": 84.617,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 84.617
+    },
+    {
+      "zone_id": "ZON_0164",
+      "node_id": "ZON_0164",
+      "name": "Sanayi ZON_0164",
+      "district": "Sanayi",
+      "population": 5187,
+      "normal_demand_m3h": 65.723,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 65.723
+    },
+    {
+      "zone_id": "ZON_0165",
+      "node_id": "ZON_0165",
+      "name": "Sanayi ZON_0165",
+      "district": "Sanayi",
+      "population": 37747,
+      "normal_demand_m3h": 91.144,
+      "critical_demand_m3h": 17.694,
+      "total_demand_m3h": 108.839
+    },
+    {
+      "zone_id": "ZON_0166",
+      "node_id": "ZON_0166",
+      "name": "Sanayi ZON_0166",
+      "district": "Sanayi",
+      "population": 17278,
+      "normal_demand_m3h": 24.739,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 24.739
+    },
+    {
+      "zone_id": "ZON_0167",
+      "node_id": "ZON_0167",
+      "name": "Dogu ZON_0167",
+      "district": "Dogu",
+      "population": 15170,
+      "normal_demand_m3h": 70.612,
+      "critical_demand_m3h": 27.179,
+      "total_demand_m3h": 97.791
+    },
+    {
+      "zone_id": "ZON_0168",
+      "node_id": "ZON_0168",
+      "name": "Sanayi ZON_0168",
+      "district": "Sanayi",
+      "population": 21316,
+      "normal_demand_m3h": 73.331,
+      "critical_demand_m3h": 23.372,
+      "total_demand_m3h": 96.703
+    },
+    {
+      "zone_id": "ZON_0169",
+      "node_id": "ZON_0169",
+      "name": "Sanayi ZON_0169",
+      "district": "Sanayi",
+      "population": 41784,
+      "normal_demand_m3h": 83.998,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.998
+    },
+    {
+      "zone_id": "ZON_0170",
+      "node_id": "ZON_0170",
+      "name": "Dogu ZON_0170",
+      "district": "Dogu",
+      "population": 9268,
+      "normal_demand_m3h": 81.741,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.741
+    },
+    {
+      "zone_id": "ZON_0171",
+      "node_id": "ZON_0171",
+      "name": "Sanayi ZON_0171",
+      "district": "Sanayi",
+      "population": 26474,
+      "normal_demand_m3h": 97.748,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 97.748
+    },
+    {
+      "zone_id": "ZON_0172",
+      "node_id": "ZON_0172",
+      "name": "Dogu ZON_0172",
+      "district": "Dogu",
+      "population": 18656,
+      "normal_demand_m3h": 243.017,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 243.017
+    },
+    {
+      "zone_id": "ZON_0173",
+      "node_id": "ZON_0173",
+      "name": "Dogu ZON_0173",
+      "district": "Dogu",
+      "population": 47648,
+      "normal_demand_m3h": 68.765,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.765
+    },
+    {
+      "zone_id": "ZON_0174",
+      "node_id": "ZON_0174",
+      "name": "Sanayi ZON_0174",
+      "district": "Sanayi",
+      "population": 16960,
+      "normal_demand_m3h": 53.79,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 53.79
+    },
+    {
+      "zone_id": "ZON_0175",
+      "node_id": "ZON_0175",
+      "name": "Dogu ZON_0175",
+      "district": "Dogu",
+      "population": 31372,
+      "normal_demand_m3h": 32.429,
+      "critical_demand_m3h": 14.204,
+      "total_demand_m3h": 46.633
+    },
+    {
+      "zone_id": "ZON_0176",
+      "node_id": "ZON_0176",
+      "name": "Sanayi ZON_0176",
+      "district": "Sanayi",
+      "population": 23609,
+      "normal_demand_m3h": 68.931,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.931
+    },
+    {
+      "zone_id": "ZON_0177",
+      "node_id": "ZON_0177",
+      "name": "Dogu ZON_0177",
+      "district": "Dogu",
+      "population": 3788,
+      "normal_demand_m3h": 39.695,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 39.695
+    },
+    {
+      "zone_id": "ZON_0178",
+      "node_id": "ZON_0178",
+      "name": "Dogu ZON_0178",
+      "district": "Dogu",
+      "population": 4661,
+      "normal_demand_m3h": 171.616,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 171.616
+    },
+    {
+      "zone_id": "ZON_0179",
+      "node_id": "ZON_0179",
+      "name": "Sanayi ZON_0179",
+      "district": "Sanayi",
+      "population": 29216,
+      "normal_demand_m3h": 89.158,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 89.158
+    },
+    {
+      "zone_id": "ZON_0180",
+      "node_id": "ZON_0180",
+      "name": "Sanayi ZON_0180",
+      "district": "Sanayi",
+      "population": 3784,
+      "normal_demand_m3h": 169.435,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 169.435
+    },
+    {
+      "zone_id": "ZON_0181",
+      "node_id": "ZON_0181",
+      "name": "Dogu ZON_0181",
+      "district": "Dogu",
+      "population": 29550,
+      "normal_demand_m3h": 234.8,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 234.8
+    },
+    {
+      "zone_id": "ZON_0182",
+      "node_id": "ZON_0182",
+      "name": "Sanayi ZON_0182",
+      "district": "Sanayi",
+      "population": 31955,
+      "normal_demand_m3h": 55.349,
+      "critical_demand_m3h": 24.191,
+      "total_demand_m3h": 79.54
+    },
+    {
+      "zone_id": "ZON_0183",
+      "node_id": "ZON_0183",
+      "name": "Dogu ZON_0183",
+      "district": "Dogu",
+      "population": 9780,
+      "normal_demand_m3h": 76.297,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 76.297
+    },
+    {
+      "zone_id": "ZON_0184",
+      "node_id": "ZON_0184",
+      "name": "Dogu ZON_0184",
+      "district": "Dogu",
+      "population": 43937,
+      "normal_demand_m3h": 216.079,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 216.079
+    },
+    {
+      "zone_id": "ZON_0185",
+      "node_id": "ZON_0185",
+      "name": "Dogu ZON_0185",
+      "district": "Dogu",
+      "population": 5413,
+      "normal_demand_m3h": 106.412,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 106.412
+    },
+    {
+      "zone_id": "ZON_0186",
+      "node_id": "ZON_0186",
+      "name": "Sanayi ZON_0186",
+      "district": "Sanayi",
+      "population": 26542,
+      "normal_demand_m3h": 130.756,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 130.756
+    },
+    {
+      "zone_id": "ZON_0187",
+      "node_id": "ZON_0187",
+      "name": "Sanayi ZON_0187",
+      "district": "Sanayi",
+      "population": 23962,
+      "normal_demand_m3h": 179.549,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 179.549
+    },
+    {
+      "zone_id": "ZON_0188",
+      "node_id": "ZON_0188",
+      "name": "Sanayi ZON_0188",
+      "district": "Sanayi",
+      "population": 4650,
+      "normal_demand_m3h": 164.982,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 164.982
+    },
+    {
+      "zone_id": "ZON_0189",
+      "node_id": "ZON_0189",
+      "name": "Sanayi ZON_0189",
+      "district": "Sanayi",
+      "population": 9931,
+      "normal_demand_m3h": 122.049,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 122.049
+    },
+    {
+      "zone_id": "ZON_0190",
+      "node_id": "ZON_0190",
+      "name": "Dogu ZON_0190",
+      "district": "Dogu",
+      "population": 34633,
+      "normal_demand_m3h": 224.92,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 224.92
+    },
+    {
+      "zone_id": "ZON_0191",
+      "node_id": "ZON_0191",
+      "name": "Dogu ZON_0191",
+      "district": "Dogu",
+      "population": 29082,
+      "normal_demand_m3h": 90.711,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 90.711
+    },
+    {
+      "zone_id": "ZON_0192",
+      "node_id": "ZON_0192",
+      "name": "Dogu ZON_0192",
+      "district": "Dogu",
+      "population": 8794,
+      "normal_demand_m3h": 130.587,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 130.587
+    },
+    {
+      "zone_id": "ZON_0193",
+      "node_id": "ZON_0193",
+      "name": "Sanayi ZON_0193",
+      "district": "Sanayi",
+      "population": 7779,
+      "normal_demand_m3h": 84.81,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 84.81
+    },
+    {
+      "zone_id": "ZON_0194",
+      "node_id": "ZON_0194",
+      "name": "Dogu ZON_0194",
+      "district": "Dogu",
+      "population": 2520,
+      "normal_demand_m3h": 178.171,
+      "critical_demand_m3h": 58.487,
+      "total_demand_m3h": 236.657
+    },
+    {
+      "zone_id": "ZON_0195",
+      "node_id": "ZON_0195",
+      "name": "Dogu ZON_0195",
+      "district": "Dogu",
+      "population": 11371,
+      "normal_demand_m3h": 61.284,
+      "critical_demand_m3h": 19.934,
+      "total_demand_m3h": 81.219
+    },
+    {
+      "zone_id": "ZON_0196",
+      "node_id": "ZON_0196",
+      "name": "Dogu ZON_0196",
+      "district": "Dogu",
+      "population": 29024,
+      "normal_demand_m3h": 33.336,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 33.336
+    },
+    {
+      "zone_id": "ZON_0197",
+      "node_id": "ZON_0197",
+      "name": "Dogu ZON_0197",
+      "district": "Dogu",
+      "population": 34169,
+      "normal_demand_m3h": 142.032,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 142.032
+    },
+    {
+      "zone_id": "ZON_0198",
+      "node_id": "ZON_0198",
+      "name": "Dogu ZON_0198",
+      "district": "Dogu",
+      "population": 9197,
+      "normal_demand_m3h": 50.275,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 50.275
+    },
+    {
+      "zone_id": "ZON_0199",
+      "node_id": "ZON_0199",
+      "name": "Sanayi ZON_0199",
+      "district": "Sanayi",
+      "population": 30454,
+      "normal_demand_m3h": 47.279,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 47.279
+    },
+    {
+      "zone_id": "ZON_0200",
+      "node_id": "ZON_0200",
+      "name": "Sanayi ZON_0200",
+      "district": "Sanayi",
+      "population": 6195,
+      "normal_demand_m3h": 207.319,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 207.319
+    },
+    {
+      "zone_id": "ZON_0201",
+      "node_id": "ZON_0201",
+      "name": "Sanayi ZON_0201",
+      "district": "Sanayi",
+      "population": 9748,
+      "normal_demand_m3h": 172.275,
+      "critical_demand_m3h": 82.269,
+      "total_demand_m3h": 254.545
+    },
+    {
+      "zone_id": "ZON_0202",
+      "node_id": "ZON_0202",
+      "name": "Sanayi ZON_0202",
+      "district": "Sanayi",
+      "population": 37891,
+      "normal_demand_m3h": 76.527,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 76.527
+    },
+    {
+      "zone_id": "ZON_0203",
+      "node_id": "ZON_0203",
+      "name": "Sanayi ZON_0203",
+      "district": "Sanayi",
+      "population": 18294,
+      "normal_demand_m3h": 18.0,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 18.0
+    },
+    {
+      "zone_id": "ZON_0204",
+      "node_id": "ZON_0204",
+      "name": "Sanayi ZON_0204",
+      "district": "Sanayi",
+      "population": 33217,
+      "normal_demand_m3h": 131.711,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 131.711
+    },
+    {
+      "zone_id": "ZON_0205",
+      "node_id": "ZON_0205",
+      "name": "Dogu ZON_0205",
+      "district": "Dogu",
+      "population": 34293,
+      "normal_demand_m3h": 142.701,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 142.701
+    },
+    {
+      "zone_id": "ZON_0206",
+      "node_id": "ZON_0206",
+      "name": "Dogu ZON_0206",
+      "district": "Dogu",
+      "population": 21106,
+      "normal_demand_m3h": 130.376,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 130.376
+    },
+    {
+      "zone_id": "ZON_0207",
+      "node_id": "ZON_0207",
+      "name": "Dogu ZON_0207",
+      "district": "Dogu",
+      "population": 32408,
+      "normal_demand_m3h": 126.714,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 126.714
+    },
+    {
+      "zone_id": "ZON_0208",
+      "node_id": "ZON_0208",
+      "name": "Sanayi ZON_0208",
+      "district": "Sanayi",
+      "population": 7618,
+      "normal_demand_m3h": 84.567,
+      "critical_demand_m3h": 22.292,
+      "total_demand_m3h": 106.858
+    },
+    {
+      "zone_id": "ZON_0209",
+      "node_id": "ZON_0209",
+      "name": "Dogu ZON_0209",
+      "district": "Dogu",
+      "population": 18111,
+      "normal_demand_m3h": 73.37,
+      "critical_demand_m3h": 36.557,
+      "total_demand_m3h": 109.926
+    },
+    {
+      "zone_id": "ZON_0210",
+      "node_id": "ZON_0210",
+      "name": "Sanayi ZON_0210",
+      "district": "Sanayi",
+      "population": 25965,
+      "normal_demand_m3h": 47.664,
+      "critical_demand_m3h": 8.633,
+      "total_demand_m3h": 56.297
+    },
+    {
+      "zone_id": "ZON_0211",
+      "node_id": "ZON_0211",
+      "name": "Sanayi ZON_0211",
+      "district": "Sanayi",
+      "population": 17259,
+      "normal_demand_m3h": 61.413,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 61.413
+    },
+    {
+      "zone_id": "ZON_0212",
+      "node_id": "ZON_0212",
+      "name": "Sanayi ZON_0212",
+      "district": "Sanayi",
+      "population": 13289,
+      "normal_demand_m3h": 115.506,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 115.506
+    },
+    {
+      "zone_id": "ZON_0213",
+      "node_id": "ZON_0213",
+      "name": "Dogu ZON_0213",
+      "district": "Dogu",
+      "population": 28942,
+      "normal_demand_m3h": 116.689,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 116.689
+    },
+    {
+      "zone_id": "ZON_0214",
+      "node_id": "ZON_0214",
+      "name": "Sanayi ZON_0214",
+      "district": "Sanayi",
+      "population": 21200,
+      "normal_demand_m3h": 154.422,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 154.422
+    },
+    {
+      "zone_id": "ZON_0215",
+      "node_id": "ZON_0215",
+      "name": "Sanayi ZON_0215",
+      "district": "Sanayi",
+      "population": 19698,
+      "normal_demand_m3h": 39.568,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 39.568
+    },
+    {
+      "zone_id": "ZON_0216",
+      "node_id": "ZON_0216",
+      "name": "Sanayi ZON_0216",
+      "district": "Sanayi",
+      "population": 32668,
+      "normal_demand_m3h": 33.828,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 33.828
+    },
+    {
+      "zone_id": "ZON_0217",
+      "node_id": "ZON_0217",
+      "name": "Sanayi ZON_0217",
+      "district": "Sanayi",
+      "population": 19896,
+      "normal_demand_m3h": 74.782,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 74.782
+    },
+    {
+      "zone_id": "ZON_0218",
+      "node_id": "ZON_0218",
+      "name": "Dogu ZON_0218",
+      "district": "Dogu",
+      "population": 39096,
+      "normal_demand_m3h": 50.281,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 50.281
+    },
+    {
+      "zone_id": "ZON_0219",
+      "node_id": "ZON_0219",
+      "name": "Dogu ZON_0219",
+      "district": "Dogu",
+      "population": 14533,
+      "normal_demand_m3h": 106.199,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 106.199
+    },
+    {
+      "zone_id": "ZON_0220",
+      "node_id": "ZON_0220",
+      "name": "Sanayi ZON_0220",
+      "district": "Sanayi",
+      "population": 33982,
+      "normal_demand_m3h": 42.009,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 42.009
+    },
+    {
+      "zone_id": "ZON_0221",
+      "node_id": "ZON_0221",
+      "name": "Sanayi ZON_0221",
+      "district": "Sanayi",
+      "population": 19850,
+      "normal_demand_m3h": 196.713,
+      "critical_demand_m3h": 52.494,
+      "total_demand_m3h": 249.207
+    },
+    {
+      "zone_id": "ZON_0222",
+      "node_id": "ZON_0222",
+      "name": "Sanayi ZON_0222",
+      "district": "Sanayi",
+      "population": 32152,
+      "normal_demand_m3h": 56.845,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.845
+    },
+    {
+      "zone_id": "ZON_0223",
+      "node_id": "ZON_0223",
+      "name": "Sanayi ZON_0223",
+      "district": "Sanayi",
+      "population": 21318,
+      "normal_demand_m3h": 254.031,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 254.031
+    },
+    {
+      "zone_id": "ZON_0224",
+      "node_id": "ZON_0224",
+      "name": "Sanayi ZON_0224",
+      "district": "Sanayi",
+      "population": 38614,
+      "normal_demand_m3h": 130.983,
+      "critical_demand_m3h": 38.528,
+      "total_demand_m3h": 169.511
+    },
+    {
+      "zone_id": "ZON_0225",
+      "node_id": "ZON_0225",
+      "name": "Sanayi ZON_0225",
+      "district": "Sanayi",
+      "population": 1982,
+      "normal_demand_m3h": 49.193,
+      "critical_demand_m3h": 20.574,
+      "total_demand_m3h": 69.768
+    },
+    {
+      "zone_id": "ZON_0226",
+      "node_id": "ZON_0226",
+      "name": "Dogu ZON_0226",
+      "district": "Dogu",
+      "population": 8887,
+      "normal_demand_m3h": 346.798,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 346.798
+    },
+    {
+      "zone_id": "ZON_0227",
+      "node_id": "ZON_0227",
+      "name": "Sanayi ZON_0227",
+      "district": "Sanayi",
+      "population": 33891,
+      "normal_demand_m3h": 111.562,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 111.562
+    },
+    {
+      "zone_id": "ZON_0228",
+      "node_id": "ZON_0228",
+      "name": "Sanayi ZON_0228",
+      "district": "Sanayi",
+      "population": 13408,
+      "normal_demand_m3h": 104.899,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 104.899
+    },
+    {
+      "zone_id": "ZON_0229",
+      "node_id": "ZON_0229",
+      "name": "Sanayi ZON_0229",
+      "district": "Sanayi",
+      "population": 6706,
+      "normal_demand_m3h": 90.883,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 90.883
+    },
+    {
+      "zone_id": "ZON_0230",
+      "node_id": "ZON_0230",
+      "name": "Dogu ZON_0230",
+      "district": "Dogu",
+      "population": 2311,
+      "normal_demand_m3h": 126.376,
+      "critical_demand_m3h": 63.249,
+      "total_demand_m3h": 189.626
+    },
+    {
+      "zone_id": "ZON_0231",
+      "node_id": "ZON_0231",
+      "name": "Sanayi ZON_0231",
+      "district": "Sanayi",
+      "population": 19479,
+      "normal_demand_m3h": 131.074,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 131.074
+    },
+    {
+      "zone_id": "ZON_0232",
+      "node_id": "ZON_0232",
+      "name": "Sanayi ZON_0232",
+      "district": "Sanayi",
+      "population": 16472,
+      "normal_demand_m3h": 55.352,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 55.352
+    },
+    {
+      "zone_id": "ZON_0233",
+      "node_id": "ZON_0233",
+      "name": "Dogu ZON_0233",
+      "district": "Dogu",
+      "population": 31081,
+      "normal_demand_m3h": 82.897,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 82.897
+    },
+    {
+      "zone_id": "ZON_0234",
+      "node_id": "ZON_0234",
+      "name": "Dogu ZON_0234",
+      "district": "Dogu",
+      "population": 12131,
+      "normal_demand_m3h": 101.67,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.67
+    },
+    {
+      "zone_id": "ZON_0235",
+      "node_id": "ZON_0235",
+      "name": "Dogu ZON_0235",
+      "district": "Dogu",
+      "population": 47099,
+      "normal_demand_m3h": 135.816,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 135.816
+    },
+    {
+      "zone_id": "ZON_0236",
+      "node_id": "ZON_0236",
+      "name": "Sanayi ZON_0236",
+      "district": "Sanayi",
+      "population": 20952,
+      "normal_demand_m3h": 137.25,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 137.25
+    },
+    {
+      "zone_id": "ZON_0237",
+      "node_id": "ZON_0237",
+      "name": "Dogu ZON_0237",
+      "district": "Dogu",
+      "population": 34385,
+      "normal_demand_m3h": 104.796,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 104.796
+    },
+    {
+      "zone_id": "ZON_0238",
+      "node_id": "ZON_0238",
+      "name": "Sanayi ZON_0238",
+      "district": "Sanayi",
+      "population": 37164,
+      "normal_demand_m3h": 67.276,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 67.276
+    },
+    {
+      "zone_id": "ZON_0239",
+      "node_id": "ZON_0239",
+      "name": "Dogu ZON_0239",
+      "district": "Dogu",
+      "population": 42571,
+      "normal_demand_m3h": 65.171,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 65.171
+    },
+    {
+      "zone_id": "ZON_0240",
+      "node_id": "ZON_0240",
+      "name": "Dogu ZON_0240",
+      "district": "Dogu",
+      "population": 29702,
+      "normal_demand_m3h": 45.208,
+      "critical_demand_m3h": 16.807,
+      "total_demand_m3h": 62.015
+    },
+    {
+      "zone_id": "ZON_0241",
+      "node_id": "ZON_0241",
+      "name": "Dogu ZON_0241",
+      "district": "Dogu",
+      "population": 12256,
+      "normal_demand_m3h": 136.649,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 136.649
+    },
+    {
+      "zone_id": "ZON_0242",
+      "node_id": "ZON_0242",
+      "name": "Sanayi ZON_0242",
+      "district": "Sanayi",
+      "population": 25333,
+      "normal_demand_m3h": 64.592,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 64.592
+    },
+    {
+      "zone_id": "ZON_0243",
+      "node_id": "ZON_0243",
+      "name": "Sanayi ZON_0243",
+      "district": "Sanayi",
+      "population": 46019,
+      "normal_demand_m3h": 84.025,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 84.025
+    },
+    {
+      "zone_id": "ZON_0244",
+      "node_id": "ZON_0244",
+      "name": "Sanayi ZON_0244",
+      "district": "Sanayi",
+      "population": 33410,
+      "normal_demand_m3h": 109.662,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 109.662
+    },
+    {
+      "zone_id": "ZON_0245",
+      "node_id": "ZON_0245",
+      "name": "Dogu ZON_0245",
+      "district": "Dogu",
+      "population": 46009,
+      "normal_demand_m3h": 94.864,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 94.864
+    },
+    {
+      "zone_id": "ZON_0246",
+      "node_id": "ZON_0246",
+      "name": "Dogu ZON_0246",
+      "district": "Dogu",
+      "population": 6209,
+      "normal_demand_m3h": 94.304,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 94.304
+    },
+    {
+      "zone_id": "ZON_0247",
+      "node_id": "ZON_0247",
+      "name": "Dogu ZON_0247",
+      "district": "Dogu",
+      "population": 31796,
+      "normal_demand_m3h": 53.997,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 53.997
+    },
+    {
+      "zone_id": "ZON_0248",
+      "node_id": "ZON_0248",
+      "name": "Dogu ZON_0248",
+      "district": "Dogu",
+      "population": 2267,
+      "normal_demand_m3h": 111.798,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 111.798
+    },
+    {
+      "zone_id": "ZON_0249",
+      "node_id": "ZON_0249",
+      "name": "Sanayi ZON_0249",
+      "district": "Sanayi",
+      "population": 10700,
+      "normal_demand_m3h": 77.948,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.948
+    },
+    {
+      "zone_id": "ZON_0250",
+      "node_id": "ZON_0250",
+      "name": "Sanayi ZON_0250",
+      "district": "Sanayi",
+      "population": 15168,
+      "normal_demand_m3h": 89.696,
+      "critical_demand_m3h": 32.039,
+      "total_demand_m3h": 121.736
+    },
+    {
+      "zone_id": "ZON_0251",
+      "node_id": "ZON_0251",
+      "name": "Sanayi ZON_0251",
+      "district": "Sanayi",
+      "population": 6982,
+      "normal_demand_m3h": 194.016,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 194.016
+    },
+    {
+      "zone_id": "ZON_0252",
+      "node_id": "ZON_0252",
+      "name": "Sanayi ZON_0252",
+      "district": "Sanayi",
+      "population": 6895,
+      "normal_demand_m3h": 129.45,
+      "critical_demand_m3h": 54.438,
+      "total_demand_m3h": 183.889
+    },
+    {
+      "zone_id": "ZON_0253",
+      "node_id": "ZON_0253",
+      "name": "Sanayi ZON_0253",
+      "district": "Sanayi",
+      "population": 19939,
+      "normal_demand_m3h": 66.427,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.427
+    },
+    {
+      "zone_id": "ZON_0254",
+      "node_id": "ZON_0254",
+      "name": "Sanayi ZON_0254",
+      "district": "Sanayi",
+      "population": 25705,
+      "normal_demand_m3h": 86.287,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 86.287
+    },
+    {
+      "zone_id": "ZON_0255",
+      "node_id": "ZON_0255",
+      "name": "Sanayi ZON_0255",
+      "district": "Sanayi",
+      "population": 5232,
+      "normal_demand_m3h": 255.099,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 255.099
+    },
+    {
+      "zone_id": "ZON_0256",
+      "node_id": "ZON_0256",
+      "name": "Dogu ZON_0256",
+      "district": "Dogu",
+      "population": 6381,
+      "normal_demand_m3h": 78.212,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 78.212
+    },
+    {
+      "zone_id": "ZON_0257",
+      "node_id": "ZON_0257",
+      "name": "Dogu ZON_0257",
+      "district": "Dogu",
+      "population": 15723,
+      "normal_demand_m3h": 97.001,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 97.001
+    },
+    {
+      "zone_id": "ZON_0258",
+      "node_id": "ZON_0258",
+      "name": "Dogu ZON_0258",
+      "district": "Dogu",
+      "population": 39148,
+      "normal_demand_m3h": 142.846,
+      "critical_demand_m3h": 55.436,
+      "total_demand_m3h": 198.283
+    },
+    {
+      "zone_id": "ZON_0259",
+      "node_id": "ZON_0259",
+      "name": "Dogu ZON_0259",
+      "district": "Dogu",
+      "population": 26699,
+      "normal_demand_m3h": 108.139,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 108.139
+    },
+    {
+      "zone_id": "ZON_0260",
+      "node_id": "ZON_0260",
+      "name": "Dogu ZON_0260",
+      "district": "Dogu",
+      "population": 34943,
+      "normal_demand_m3h": 75.102,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 75.102
+    },
+    {
+      "zone_id": "ZON_0261",
+      "node_id": "ZON_0261",
+      "name": "Sanayi ZON_0261",
+      "district": "Sanayi",
+      "population": 15682,
+      "normal_demand_m3h": 59.685,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.685
+    },
+    {
+      "zone_id": "ZON_0262",
+      "node_id": "ZON_0262",
+      "name": "Sanayi ZON_0262",
+      "district": "Sanayi",
+      "population": 39353,
+      "normal_demand_m3h": 94.042,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 94.042
+    },
+    {
+      "zone_id": "ZON_0263",
+      "node_id": "ZON_0263",
+      "name": "Dogu ZON_0263",
+      "district": "Dogu",
+      "population": 2714,
+      "normal_demand_m3h": 142.305,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 142.305
+    },
+    {
+      "zone_id": "ZON_0264",
+      "node_id": "ZON_0264",
+      "name": "Dogu ZON_0264",
+      "district": "Dogu",
+      "population": 17196,
+      "normal_demand_m3h": 214.639,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 214.639
+    },
+    {
+      "zone_id": "ZON_0265",
+      "node_id": "ZON_0265",
+      "name": "Sanayi ZON_0265",
+      "district": "Sanayi",
+      "population": 8801,
+      "normal_demand_m3h": 38.148,
+      "critical_demand_m3h": 19.452,
+      "total_demand_m3h": 57.6
+    },
+    {
+      "zone_id": "ZON_0266",
+      "node_id": "ZON_0266",
+      "name": "Sanayi ZON_0266",
+      "district": "Sanayi",
+      "population": 42601,
+      "normal_demand_m3h": 282.288,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 282.288
+    },
+    {
+      "zone_id": "ZON_0267",
+      "node_id": "ZON_0267",
+      "name": "Sanayi ZON_0267",
+      "district": "Sanayi",
+      "population": 41313,
+      "normal_demand_m3h": 79.137,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 79.137
+    },
+    {
+      "zone_id": "ZON_0268",
+      "node_id": "ZON_0268",
+      "name": "Dogu ZON_0268",
+      "district": "Dogu",
+      "population": 42537,
+      "normal_demand_m3h": 167.904,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 167.904
+    },
+    {
+      "zone_id": "ZON_0269",
+      "node_id": "ZON_0269",
+      "name": "Sanayi ZON_0269",
+      "district": "Sanayi",
+      "population": 1486,
+      "normal_demand_m3h": 59.903,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.903
+    },
+    {
+      "zone_id": "ZON_0270",
+      "node_id": "ZON_0270",
+      "name": "Dogu ZON_0270",
+      "district": "Dogu",
+      "population": 47497,
+      "normal_demand_m3h": 34.858,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 34.858
+    },
+    {
+      "zone_id": "ZON_0271",
+      "node_id": "ZON_0271",
+      "name": "Sanayi ZON_0271",
+      "district": "Sanayi",
+      "population": 21209,
+      "normal_demand_m3h": 41.929,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 41.929
+    },
+    {
+      "zone_id": "ZON_0272",
+      "node_id": "ZON_0272",
+      "name": "Dogu ZON_0272",
+      "district": "Dogu",
+      "population": 29100,
+      "normal_demand_m3h": 77.077,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.077
+    },
+    {
+      "zone_id": "ZON_0273",
+      "node_id": "ZON_0273",
+      "name": "Dogu ZON_0273",
+      "district": "Dogu",
+      "population": 15468,
+      "normal_demand_m3h": 130.966,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 130.966
+    },
+    {
+      "zone_id": "ZON_0274",
+      "node_id": "ZON_0274",
+      "name": "Dogu ZON_0274",
+      "district": "Dogu",
+      "population": 25184,
+      "normal_demand_m3h": 96.48,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 96.48
+    },
+    {
+      "zone_id": "ZON_0275",
+      "node_id": "ZON_0275",
+      "name": "Sanayi ZON_0275",
+      "district": "Sanayi",
+      "population": 26944,
+      "normal_demand_m3h": 81.033,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.033
+    },
+    {
+      "zone_id": "ZON_0276",
+      "node_id": "ZON_0276",
+      "name": "Dogu ZON_0276",
+      "district": "Dogu",
+      "population": 37846,
+      "normal_demand_m3h": 189.27,
+      "critical_demand_m3h": 41.781,
+      "total_demand_m3h": 231.051
+    },
+    {
+      "zone_id": "ZON_0277",
+      "node_id": "ZON_0277",
+      "name": "Sanayi ZON_0277",
+      "district": "Sanayi",
+      "population": 1932,
+      "normal_demand_m3h": 94.749,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 94.749
+    },
+    {
+      "zone_id": "ZON_0278",
+      "node_id": "ZON_0278",
+      "name": "Dogu ZON_0278",
+      "district": "Dogu",
+      "population": 39212,
+      "normal_demand_m3h": 112.558,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 112.558
+    },
+    {
+      "zone_id": "ZON_0279",
+      "node_id": "ZON_0279",
+      "name": "Sanayi ZON_0279",
+      "district": "Sanayi",
+      "population": 38804,
+      "normal_demand_m3h": 651.213,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 651.213
+    },
+    {
+      "zone_id": "ZON_0280",
+      "node_id": "ZON_0280",
+      "name": "Dogu ZON_0280",
+      "district": "Dogu",
+      "population": 28212,
+      "normal_demand_m3h": 94.162,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 94.162
+    },
+    {
+      "zone_id": "ZON_0281",
+      "node_id": "ZON_0281",
+      "name": "Sanayi ZON_0281",
+      "district": "Sanayi",
+      "population": 45575,
+      "normal_demand_m3h": 61.472,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 61.472
+    },
+    {
+      "zone_id": "ZON_0282",
+      "node_id": "ZON_0282",
+      "name": "Sanayi ZON_0282",
+      "district": "Sanayi",
+      "population": 19354,
+      "normal_demand_m3h": 127.51,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 127.51
+    },
+    {
+      "zone_id": "ZON_0283",
+      "node_id": "ZON_0283",
+      "name": "Sanayi ZON_0283",
+      "district": "Sanayi",
+      "population": 11697,
+      "normal_demand_m3h": 149.177,
+      "critical_demand_m3h": 77.357,
+      "total_demand_m3h": 226.534
+    },
+    {
+      "zone_id": "ZON_0284",
+      "node_id": "ZON_0284",
+      "name": "Sanayi ZON_0284",
+      "district": "Sanayi",
+      "population": 8592,
+      "normal_demand_m3h": 114.047,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 114.047
+    },
+    {
+      "zone_id": "ZON_0285",
+      "node_id": "ZON_0285",
+      "name": "Dogu ZON_0285",
+      "district": "Dogu",
+      "population": 32983,
+      "normal_demand_m3h": 104.301,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 104.301
+    },
+    {
+      "zone_id": "ZON_0286",
+      "node_id": "ZON_0286",
+      "name": "Dogu ZON_0286",
+      "district": "Dogu",
+      "population": 40194,
+      "normal_demand_m3h": 237.219,
+      "critical_demand_m3h": 101.631,
+      "total_demand_m3h": 338.849
+    },
+    {
+      "zone_id": "ZON_0287",
+      "node_id": "ZON_0287",
+      "name": "Sanayi ZON_0287",
+      "district": "Sanayi",
+      "population": 15761,
+      "normal_demand_m3h": 219.531,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 219.531
+    },
+    {
+      "zone_id": "ZON_0288",
+      "node_id": "ZON_0288",
+      "name": "Dogu ZON_0288",
+      "district": "Dogu",
+      "population": 31716,
+      "normal_demand_m3h": 88.005,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 88.005
+    },
+    {
+      "zone_id": "ZON_0289",
+      "node_id": "ZON_0289",
+      "name": "Sanayi ZON_0289",
+      "district": "Sanayi",
+      "population": 28216,
+      "normal_demand_m3h": 63.5,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 63.5
+    },
+    {
+      "zone_id": "ZON_0290",
+      "node_id": "ZON_0290",
+      "name": "Sanayi ZON_0290",
+      "district": "Sanayi",
+      "population": 28851,
+      "normal_demand_m3h": 123.483,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 123.483
+    },
+    {
+      "zone_id": "ZON_0291",
+      "node_id": "ZON_0291",
+      "name": "Dogu ZON_0291",
+      "district": "Dogu",
+      "population": 15434,
+      "normal_demand_m3h": 63.274,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 63.274
+    },
+    {
+      "zone_id": "ZON_0292",
+      "node_id": "ZON_0292",
+      "name": "Dogu ZON_0292",
+      "district": "Dogu",
+      "population": 42860,
+      "normal_demand_m3h": 163.825,
+      "critical_demand_m3h": 55.778,
+      "total_demand_m3h": 219.604
+    },
+    {
+      "zone_id": "ZON_0293",
+      "node_id": "ZON_0293",
+      "name": "Sanayi ZON_0293",
+      "district": "Sanayi",
+      "population": 4683,
+      "normal_demand_m3h": 123.09,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 123.09
+    },
+    {
+      "zone_id": "ZON_0294",
+      "node_id": "ZON_0294",
+      "name": "Sanayi ZON_0294",
+      "district": "Sanayi",
+      "population": 18124,
+      "normal_demand_m3h": 495.427,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 495.427
+    },
+    {
+      "zone_id": "ZON_0295",
+      "node_id": "ZON_0295",
+      "name": "Dogu ZON_0295",
+      "district": "Dogu",
+      "population": 20650,
+      "normal_demand_m3h": 235.909,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 235.909
+    },
+    {
+      "zone_id": "ZON_0296",
+      "node_id": "ZON_0296",
+      "name": "Dogu ZON_0296",
+      "district": "Dogu",
+      "population": 19031,
+      "normal_demand_m3h": 48.481,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 48.481
+    },
+    {
+      "zone_id": "ZON_0297",
+      "node_id": "ZON_0297",
+      "name": "Sanayi ZON_0297",
+      "district": "Sanayi",
+      "population": 35052,
+      "normal_demand_m3h": 68.604,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.604
+    },
+    {
+      "zone_id": "ZON_0298",
+      "node_id": "ZON_0298",
+      "name": "Dogu ZON_0298",
+      "district": "Dogu",
+      "population": 17933,
+      "normal_demand_m3h": 28.886,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 28.886
+    },
+    {
+      "zone_id": "ZON_0299",
+      "node_id": "ZON_0299",
+      "name": "Dogu ZON_0299",
+      "district": "Dogu",
+      "population": 8354,
+      "normal_demand_m3h": 25.143,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 25.143
+    },
+    {
+      "zone_id": "ZON_0300",
+      "node_id": "ZON_0300",
+      "name": "Dogu ZON_0300",
+      "district": "Dogu",
+      "population": 18176,
+      "normal_demand_m3h": 101.552,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.552
+    },
+    {
+      "zone_id": "ZON_0301",
+      "node_id": "ZON_0301",
+      "name": "Sanayi ZON_0301",
+      "district": "Sanayi",
+      "population": 4287,
+      "normal_demand_m3h": 45.183,
+      "critical_demand_m3h": 21.062,
+      "total_demand_m3h": 66.245
+    },
+    {
+      "zone_id": "ZON_0302",
+      "node_id": "ZON_0302",
+      "name": "Dogu ZON_0302",
+      "district": "Dogu",
+      "population": 22496,
+      "normal_demand_m3h": 261.788,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 261.788
+    },
+    {
+      "zone_id": "ZON_0303",
+      "node_id": "ZON_0303",
+      "name": "Dogu ZON_0303",
+      "district": "Dogu",
+      "population": 6027,
+      "normal_demand_m3h": 194.01,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 194.01
+    },
+    {
+      "zone_id": "ZON_0304",
+      "node_id": "ZON_0304",
+      "name": "Dogu ZON_0304",
+      "district": "Dogu",
+      "population": 29611,
+      "normal_demand_m3h": 79.972,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 79.972
+    },
+    {
+      "zone_id": "ZON_0305",
+      "node_id": "ZON_0305",
+      "name": "Sanayi ZON_0305",
+      "district": "Sanayi",
+      "population": 43319,
+      "normal_demand_m3h": 77.204,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.204
+    },
+    {
+      "zone_id": "ZON_0306",
+      "node_id": "ZON_0306",
+      "name": "Sanayi ZON_0306",
+      "district": "Sanayi",
+      "population": 9565,
+      "normal_demand_m3h": 237.681,
+      "critical_demand_m3h": 119.629,
+      "total_demand_m3h": 357.311
+    },
+    {
+      "zone_id": "ZON_0307",
+      "node_id": "ZON_0307",
+      "name": "Dogu ZON_0307",
+      "district": "Dogu",
+      "population": 11031,
+      "normal_demand_m3h": 273.98,
+      "critical_demand_m3h": 90.649,
+      "total_demand_m3h": 364.629
+    },
+    {
+      "zone_id": "ZON_0308",
+      "node_id": "ZON_0308",
+      "name": "Sanayi ZON_0308",
+      "district": "Sanayi",
+      "population": 46796,
+      "normal_demand_m3h": 53.079,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 53.079
+    },
+    {
+      "zone_id": "ZON_0309",
+      "node_id": "ZON_0309",
+      "name": "Dogu ZON_0309",
+      "district": "Dogu",
+      "population": 35969,
+      "normal_demand_m3h": 49.012,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 49.012
+    },
+    {
+      "zone_id": "ZON_0310",
+      "node_id": "ZON_0310",
+      "name": "Sanayi ZON_0310",
+      "district": "Sanayi",
+      "population": 33950,
+      "normal_demand_m3h": 78.518,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 78.518
+    },
+    {
+      "zone_id": "ZON_0311",
+      "node_id": "ZON_0311",
+      "name": "Sanayi ZON_0311",
+      "district": "Sanayi",
+      "population": 31672,
+      "normal_demand_m3h": 123.636,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 123.636
+    },
+    {
+      "zone_id": "ZON_0312",
+      "node_id": "ZON_0312",
+      "name": "Dogu ZON_0312",
+      "district": "Dogu",
+      "population": 30041,
+      "normal_demand_m3h": 68.822,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.822
+    },
+    {
+      "zone_id": "ZON_0313",
+      "node_id": "ZON_0313",
+      "name": "Dogu ZON_0313",
+      "district": "Dogu",
+      "population": 42470,
+      "normal_demand_m3h": 125.258,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 125.258
+    },
+    {
+      "zone_id": "ZON_0314",
+      "node_id": "ZON_0314",
+      "name": "Dogu ZON_0314",
+      "district": "Dogu",
+      "population": 19467,
+      "normal_demand_m3h": 317.09,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 317.09
+    },
+    {
+      "zone_id": "ZON_0315",
+      "node_id": "ZON_0315",
+      "name": "Dogu ZON_0315",
+      "district": "Dogu",
+      "population": 7773,
+      "normal_demand_m3h": 39.577,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 39.577
+    },
+    {
+      "zone_id": "ZON_0316",
+      "node_id": "ZON_0316",
+      "name": "Dogu ZON_0316",
+      "district": "Dogu",
+      "population": 15013,
+      "normal_demand_m3h": 71.785,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 71.785
+    },
+    {
+      "zone_id": "ZON_0317",
+      "node_id": "ZON_0317",
+      "name": "Sanayi ZON_0317",
+      "district": "Sanayi",
+      "population": 11909,
+      "normal_demand_m3h": 40.047,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 40.047
+    },
+    {
+      "zone_id": "ZON_0318",
+      "node_id": "ZON_0318",
+      "name": "Sanayi ZON_0318",
+      "district": "Sanayi",
+      "population": 45967,
+      "normal_demand_m3h": 56.335,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.335
+    },
+    {
+      "zone_id": "ZON_0319",
+      "node_id": "ZON_0319",
+      "name": "Dogu ZON_0319",
+      "district": "Dogu",
+      "population": 27736,
+      "normal_demand_m3h": 78.831,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 78.831
+    },
+    {
+      "zone_id": "ZON_0320",
+      "node_id": "ZON_0320",
+      "name": "Dogu ZON_0320",
+      "district": "Dogu",
+      "population": 21179,
+      "normal_demand_m3h": 60.288,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 60.288
+    },
+    {
+      "zone_id": "ZON_0321",
+      "node_id": "ZON_0321",
+      "name": "Dogu ZON_0321",
+      "district": "Dogu",
+      "population": 2406,
+      "normal_demand_m3h": 130.632,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 130.632
+    },
+    {
+      "zone_id": "ZON_0322",
+      "node_id": "ZON_0322",
+      "name": "Sanayi ZON_0322",
+      "district": "Sanayi",
+      "population": 34478,
+      "normal_demand_m3h": 103.917,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 103.917
+    },
+    {
+      "zone_id": "ZON_0323",
+      "node_id": "ZON_0323",
+      "name": "Dogu ZON_0323",
+      "district": "Dogu",
+      "population": 31462,
+      "normal_demand_m3h": 113.908,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 113.908
+    },
+    {
+      "zone_id": "ZON_0324",
+      "node_id": "ZON_0324",
+      "name": "Dogu ZON_0324",
+      "district": "Dogu",
+      "population": 39128,
+      "normal_demand_m3h": 78.245,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 78.245
+    },
+    {
+      "zone_id": "ZON_0325",
+      "node_id": "ZON_0325",
+      "name": "Dogu ZON_0325",
+      "district": "Dogu",
+      "population": 7334,
+      "normal_demand_m3h": 82.843,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 82.843
+    },
+    {
+      "zone_id": "ZON_0326",
+      "node_id": "ZON_0326",
+      "name": "Sanayi ZON_0326",
+      "district": "Sanayi",
+      "population": 31972,
+      "normal_demand_m3h": 76.14,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 76.14
+    },
+    {
+      "zone_id": "ZON_0327",
+      "node_id": "ZON_0327",
+      "name": "Dogu ZON_0327",
+      "district": "Dogu",
+      "population": 18138,
+      "normal_demand_m3h": 81.112,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.112
+    },
+    {
+      "zone_id": "ZON_0328",
+      "node_id": "ZON_0328",
+      "name": "Sanayi ZON_0328",
+      "district": "Sanayi",
+      "population": 12085,
+      "normal_demand_m3h": 122.705,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 122.705
+    },
+    {
+      "zone_id": "ZON_0329",
+      "node_id": "ZON_0329",
+      "name": "Dogu ZON_0329",
+      "district": "Dogu",
+      "population": 11683,
+      "normal_demand_m3h": 28.715,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 28.715
+    },
+    {
+      "zone_id": "ZON_0330",
+      "node_id": "ZON_0330",
+      "name": "Dogu ZON_0330",
+      "district": "Dogu",
+      "population": 14677,
+      "normal_demand_m3h": 113.128,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 113.128
+    },
+    {
+      "zone_id": "ZON_0331",
+      "node_id": "ZON_0331",
+      "name": "Sanayi ZON_0331",
+      "district": "Sanayi",
+      "population": 35505,
+      "normal_demand_m3h": 55.223,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 55.223
+    },
+    {
+      "zone_id": "ZON_0332",
+      "node_id": "ZON_0332",
+      "name": "Dogu ZON_0332",
+      "district": "Dogu",
+      "population": 40261,
+      "normal_demand_m3h": 76.701,
+      "critical_demand_m3h": 41.316,
+      "total_demand_m3h": 118.017
+    },
+    {
+      "zone_id": "ZON_0333",
+      "node_id": "ZON_0333",
+      "name": "Dogu ZON_0333",
+      "district": "Dogu",
+      "population": 16352,
+      "normal_demand_m3h": 35.94,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 35.94
+    },
+    {
+      "zone_id": "ZON_0334",
+      "node_id": "ZON_0334",
+      "name": "Dogu ZON_0334",
+      "district": "Dogu",
+      "population": 20107,
+      "normal_demand_m3h": 75.764,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 75.764
+    },
+    {
+      "zone_id": "ZON_0335",
+      "node_id": "ZON_0335",
+      "name": "Dogu ZON_0335",
+      "district": "Dogu",
+      "population": 7131,
+      "normal_demand_m3h": 112.425,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 112.425
+    },
+    {
+      "zone_id": "ZON_0336",
+      "node_id": "ZON_0336",
+      "name": "Dogu ZON_0336",
+      "district": "Dogu",
+      "population": 3167,
+      "normal_demand_m3h": 125.636,
+      "critical_demand_m3h": 29.758,
+      "total_demand_m3h": 155.395
+    },
+    {
+      "zone_id": "ZON_0337",
+      "node_id": "ZON_0337",
+      "name": "Dogu ZON_0337",
+      "district": "Dogu",
+      "population": 45676,
+      "normal_demand_m3h": 45.353,
+      "critical_demand_m3h": 22.988,
+      "total_demand_m3h": 68.341
+    },
+    {
+      "zone_id": "ZON_0338",
+      "node_id": "ZON_0338",
+      "name": "Sanayi ZON_0338",
+      "district": "Sanayi",
+      "population": 8710,
+      "normal_demand_m3h": 121.934,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 121.934
+    },
+    {
+      "zone_id": "ZON_0339",
+      "node_id": "ZON_0339",
+      "name": "Dogu ZON_0339",
+      "district": "Dogu",
+      "population": 8898,
+      "normal_demand_m3h": 191.84,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 191.84
+    },
+    {
+      "zone_id": "ZON_0340",
+      "node_id": "ZON_0340",
+      "name": "Sanayi ZON_0340",
+      "district": "Sanayi",
+      "population": 4388,
+      "normal_demand_m3h": 69.68,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 69.68
+    },
+    {
+      "zone_id": "ZON_0341",
+      "node_id": "ZON_0341",
+      "name": "Dogu ZON_0341",
+      "district": "Dogu",
+      "population": 39674,
+      "normal_demand_m3h": 94.686,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 94.686
+    },
+    {
+      "zone_id": "ZON_0342",
+      "node_id": "ZON_0342",
+      "name": "Dogu ZON_0342",
+      "district": "Dogu",
+      "population": 9883,
+      "normal_demand_m3h": 26.246,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 26.246
+    },
+    {
+      "zone_id": "ZON_0343",
+      "node_id": "ZON_0343",
+      "name": "Sanayi ZON_0343",
+      "district": "Sanayi",
+      "population": 19482,
+      "normal_demand_m3h": 54.263,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 54.263
+    },
+    {
+      "zone_id": "ZON_0344",
+      "node_id": "ZON_0344",
+      "name": "Sanayi ZON_0344",
+      "district": "Sanayi",
+      "population": 20624,
+      "normal_demand_m3h": 111.913,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 111.913
+    },
+    {
+      "zone_id": "ZON_0345",
+      "node_id": "ZON_0345",
+      "name": "Sanayi ZON_0345",
+      "district": "Sanayi",
+      "population": 19351,
+      "normal_demand_m3h": 171.124,
+      "critical_demand_m3h": 45.74,
+      "total_demand_m3h": 216.864
+    },
+    {
+      "zone_id": "ZON_0346",
+      "node_id": "ZON_0346",
+      "name": "Sanayi ZON_0346",
+      "district": "Sanayi",
+      "population": 38907,
+      "normal_demand_m3h": 65.264,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 65.264
+    },
+    {
+      "zone_id": "ZON_0347",
+      "node_id": "ZON_0347",
+      "name": "Dogu ZON_0347",
+      "district": "Dogu",
+      "population": 6721,
+      "normal_demand_m3h": 495.229,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 495.229
+    },
+    {
+      "zone_id": "ZON_0348",
+      "node_id": "ZON_0348",
+      "name": "Dogu ZON_0348",
+      "district": "Dogu",
+      "population": 46120,
+      "normal_demand_m3h": 114.963,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 114.963
+    },
+    {
+      "zone_id": "ZON_0349",
+      "node_id": "ZON_0349",
+      "name": "Sanayi ZON_0349",
+      "district": "Sanayi",
+      "population": 39066,
+      "normal_demand_m3h": 42.971,
+      "critical_demand_m3h": 22.538,
+      "total_demand_m3h": 65.509
+    },
+    {
+      "zone_id": "ZON_0350",
+      "node_id": "ZON_0350",
+      "name": "Sanayi ZON_0350",
+      "district": "Sanayi",
+      "population": 39478,
+      "normal_demand_m3h": 210.199,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 210.199
+    },
+    {
+      "zone_id": "ZON_0351",
+      "node_id": "ZON_0351",
+      "name": "Sanayi ZON_0351",
+      "district": "Sanayi",
+      "population": 21188,
+      "normal_demand_m3h": 43.518,
+      "critical_demand_m3h": 8.794,
+      "total_demand_m3h": 52.313
+    },
+    {
+      "zone_id": "ZON_0352",
+      "node_id": "ZON_0352",
+      "name": "Sanayi ZON_0352",
+      "district": "Sanayi",
+      "population": 2990,
+      "normal_demand_m3h": 116.004,
+      "critical_demand_m3h": 46.029,
+      "total_demand_m3h": 162.034
+    },
+    {
+      "zone_id": "ZON_0353",
+      "node_id": "ZON_0353",
+      "name": "Dogu ZON_0353",
+      "district": "Dogu",
+      "population": 25447,
+      "normal_demand_m3h": 53.19,
+      "critical_demand_m3h": 14.331,
+      "total_demand_m3h": 67.521
+    },
+    {
+      "zone_id": "ZON_0354",
+      "node_id": "ZON_0354",
+      "name": "Sanayi ZON_0354",
+      "district": "Sanayi",
+      "population": 24241,
+      "normal_demand_m3h": 40.788,
+      "critical_demand_m3h": 16.789,
+      "total_demand_m3h": 57.577
+    },
+    {
+      "zone_id": "ZON_0355",
+      "node_id": "ZON_0355",
+      "name": "Sanayi ZON_0355",
+      "district": "Sanayi",
+      "population": 3675,
+      "normal_demand_m3h": 171.835,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 171.835
+    },
+    {
+      "zone_id": "ZON_0356",
+      "node_id": "ZON_0356",
+      "name": "Dogu ZON_0356",
+      "district": "Dogu",
+      "population": 2294,
+      "normal_demand_m3h": 80.555,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 80.555
+    },
+    {
+      "zone_id": "ZON_0357",
+      "node_id": "ZON_0357",
+      "name": "Sanayi ZON_0357",
+      "district": "Sanayi",
+      "population": 8786,
+      "normal_demand_m3h": 275.866,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 275.866
+    },
+    {
+      "zone_id": "ZON_0358",
+      "node_id": "ZON_0358",
+      "name": "Sanayi ZON_0358",
+      "district": "Sanayi",
+      "population": 42836,
+      "normal_demand_m3h": 50.344,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 50.344
+    },
+    {
+      "zone_id": "ZON_0359",
+      "node_id": "ZON_0359",
+      "name": "Sanayi ZON_0359",
+      "district": "Sanayi",
+      "population": 22630,
+      "normal_demand_m3h": 35.982,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 35.982
+    },
+    {
+      "zone_id": "ZON_0360",
+      "node_id": "ZON_0360",
+      "name": "Dogu ZON_0360",
+      "district": "Dogu",
+      "population": 8106,
+      "normal_demand_m3h": 70.288,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.288
+    },
+    {
+      "zone_id": "ZON_0361",
+      "node_id": "ZON_0361",
+      "name": "Sanayi ZON_0361",
+      "district": "Sanayi",
+      "population": 16675,
+      "normal_demand_m3h": 567.997,
+      "critical_demand_m3h": 246.863,
+      "total_demand_m3h": 814.859
+    },
+    {
+      "zone_id": "ZON_0362",
+      "node_id": "ZON_0362",
+      "name": "Dogu ZON_0362",
+      "district": "Dogu",
+      "population": 4456,
+      "normal_demand_m3h": 158.702,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 158.702
+    },
+    {
+      "zone_id": "ZON_0363",
+      "node_id": "ZON_0363",
+      "name": "Sanayi ZON_0363",
+      "district": "Sanayi",
+      "population": 34213,
+      "normal_demand_m3h": 133.408,
+      "critical_demand_m3h": 71.487,
+      "total_demand_m3h": 204.895
+    },
+    {
+      "zone_id": "ZON_0364",
+      "node_id": "ZON_0364",
+      "name": "Dogu ZON_0364",
+      "district": "Dogu",
+      "population": 44387,
+      "normal_demand_m3h": 136.17,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 136.17
+    },
+    {
+      "zone_id": "ZON_0365",
+      "node_id": "ZON_0365",
+      "name": "Sanayi ZON_0365",
+      "district": "Sanayi",
+      "population": 12232,
+      "normal_demand_m3h": 70.063,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.063
+    },
+    {
+      "zone_id": "ZON_0366",
+      "node_id": "ZON_0366",
+      "name": "Sanayi ZON_0366",
+      "district": "Sanayi",
+      "population": 8390,
+      "normal_demand_m3h": 513.987,
+      "critical_demand_m3h": 125.453,
+      "total_demand_m3h": 639.439
+    },
+    {
+      "zone_id": "ZON_0367",
+      "node_id": "ZON_0367",
+      "name": "Sanayi ZON_0367",
+      "district": "Sanayi",
+      "population": 21438,
+      "normal_demand_m3h": 125.714,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 125.714
+    },
+    {
+      "zone_id": "ZON_0368",
+      "node_id": "ZON_0368",
+      "name": "Sanayi ZON_0368",
+      "district": "Sanayi",
+      "population": 36588,
+      "normal_demand_m3h": 118.614,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 118.614
+    },
+    {
+      "zone_id": "ZON_0369",
+      "node_id": "ZON_0369",
+      "name": "Dogu ZON_0369",
+      "district": "Dogu",
+      "population": 44579,
+      "normal_demand_m3h": 174.272,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 174.272
+    },
+    {
+      "zone_id": "ZON_0370",
+      "node_id": "ZON_0370",
+      "name": "Sanayi ZON_0370",
+      "district": "Sanayi",
+      "population": 19467,
+      "normal_demand_m3h": 42.974,
+      "critical_demand_m3h": 8.762,
+      "total_demand_m3h": 51.736
+    },
+    {
+      "zone_id": "ZON_0371",
+      "node_id": "ZON_0371",
+      "name": "Sanayi ZON_0371",
+      "district": "Sanayi",
+      "population": 15919,
+      "normal_demand_m3h": 54.861,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 54.861
+    },
+    {
+      "zone_id": "ZON_0372",
+      "node_id": "ZON_0372",
+      "name": "Sanayi ZON_0372",
+      "district": "Sanayi",
+      "population": 46450,
+      "normal_demand_m3h": 81.27,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.27
+    },
+    {
+      "zone_id": "ZON_0373",
+      "node_id": "ZON_0373",
+      "name": "Dogu ZON_0373",
+      "district": "Dogu",
+      "population": 21994,
+      "normal_demand_m3h": 174.972,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 174.972
+    },
+    {
+      "zone_id": "ZON_0374",
+      "node_id": "ZON_0374",
+      "name": "Sanayi ZON_0374",
+      "district": "Sanayi",
+      "population": 15626,
+      "normal_demand_m3h": 42.318,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 42.318
+    },
+    {
+      "zone_id": "ZON_0375",
+      "node_id": "ZON_0375",
+      "name": "Sanayi ZON_0375",
+      "district": "Sanayi",
+      "population": 20891,
+      "normal_demand_m3h": 90.762,
+      "critical_demand_m3h": 21.172,
+      "total_demand_m3h": 111.934
+    },
+    {
+      "zone_id": "ZON_0376",
+      "node_id": "ZON_0376",
+      "name": "Sanayi ZON_0376",
+      "district": "Sanayi",
+      "population": 30269,
+      "normal_demand_m3h": 83.139,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.139
+    },
+    {
+      "zone_id": "ZON_0377",
+      "node_id": "ZON_0377",
+      "name": "Sanayi ZON_0377",
+      "district": "Sanayi",
+      "population": 16004,
+      "normal_demand_m3h": 35.655,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 35.655
+    },
+    {
+      "zone_id": "ZON_0378",
+      "node_id": "ZON_0378",
+      "name": "Sanayi ZON_0378",
+      "district": "Sanayi",
+      "population": 34734,
+      "normal_demand_m3h": 69.025,
+      "critical_demand_m3h": 35.516,
+      "total_demand_m3h": 104.541
+    },
+    {
+      "zone_id": "ZON_0379",
+      "node_id": "ZON_0379",
+      "name": "Sanayi ZON_0379",
+      "district": "Sanayi",
+      "population": 40397,
+      "normal_demand_m3h": 132.449,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 132.449
+    },
+    {
+      "zone_id": "ZON_0380",
+      "node_id": "ZON_0380",
+      "name": "Dogu ZON_0380",
+      "district": "Dogu",
+      "population": 6852,
+      "normal_demand_m3h": 37.727,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 37.727
+    },
+    {
+      "zone_id": "ZON_0381",
+      "node_id": "ZON_0381",
+      "name": "Dogu ZON_0381",
+      "district": "Dogu",
+      "population": 31769,
+      "normal_demand_m3h": 227.018,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 227.018
+    },
+    {
+      "zone_id": "ZON_0382",
+      "node_id": "ZON_0382",
+      "name": "Sanayi ZON_0382",
+      "district": "Sanayi",
+      "population": 20144,
+      "normal_demand_m3h": 126.493,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 126.493
+    },
+    {
+      "zone_id": "ZON_0383",
+      "node_id": "ZON_0383",
+      "name": "Dogu ZON_0383",
+      "district": "Dogu",
+      "population": 37585,
+      "normal_demand_m3h": 117.275,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 117.275
+    },
+    {
+      "zone_id": "ZON_0384",
+      "node_id": "ZON_0384",
+      "name": "Dogu ZON_0384",
+      "district": "Dogu",
+      "population": 1226,
+      "normal_demand_m3h": 95.114,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 95.114
+    },
+    {
+      "zone_id": "ZON_0385",
+      "node_id": "ZON_0385",
+      "name": "Sanayi ZON_0385",
+      "district": "Sanayi",
+      "population": 9986,
+      "normal_demand_m3h": 48.075,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 48.075
+    },
+    {
+      "zone_id": "ZON_0386",
+      "node_id": "ZON_0386",
+      "name": "Dogu ZON_0386",
+      "district": "Dogu",
+      "population": 12478,
+      "normal_demand_m3h": 63.256,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 63.256
+    },
+    {
+      "zone_id": "ZON_0387",
+      "node_id": "ZON_0387",
+      "name": "Sanayi ZON_0387",
+      "district": "Sanayi",
+      "population": 27274,
+      "normal_demand_m3h": 118.433,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 118.433
+    },
+    {
+      "zone_id": "ZON_0388",
+      "node_id": "ZON_0388",
+      "name": "Dogu ZON_0388",
+      "district": "Dogu",
+      "population": 41802,
+      "normal_demand_m3h": 63.179,
+      "critical_demand_m3h": 22.026,
+      "total_demand_m3h": 85.205
+    },
+    {
+      "zone_id": "ZON_0389",
+      "node_id": "ZON_0389",
+      "name": "Sanayi ZON_0389",
+      "district": "Sanayi",
+      "population": 27991,
+      "normal_demand_m3h": 106.381,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 106.381
+    },
+    {
+      "zone_id": "ZON_0390",
+      "node_id": "ZON_0390",
+      "name": "Sanayi ZON_0390",
+      "district": "Sanayi",
+      "population": 2310,
+      "normal_demand_m3h": 54.201,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 54.201
+    },
+    {
+      "zone_id": "ZON_0391",
+      "node_id": "ZON_0391",
+      "name": "Sanayi ZON_0391",
+      "district": "Sanayi",
+      "population": 31392,
+      "normal_demand_m3h": 125.197,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 125.197
+    },
+    {
+      "zone_id": "ZON_0392",
+      "node_id": "ZON_0392",
+      "name": "Dogu ZON_0392",
+      "district": "Dogu",
+      "population": 42386,
+      "normal_demand_m3h": 131.127,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 131.127
+    },
+    {
+      "zone_id": "ZON_0393",
+      "node_id": "ZON_0393",
+      "name": "Dogu ZON_0393",
+      "district": "Dogu",
+      "population": 41956,
+      "normal_demand_m3h": 34.496,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 34.496
+    },
+    {
+      "zone_id": "ZON_0394",
+      "node_id": "ZON_0394",
+      "name": "Sanayi ZON_0394",
+      "district": "Sanayi",
+      "population": 42823,
+      "normal_demand_m3h": 98.665,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 98.665
+    },
+    {
+      "zone_id": "ZON_0395",
+      "node_id": "ZON_0395",
+      "name": "Dogu ZON_0395",
+      "district": "Dogu",
+      "population": 46857,
+      "normal_demand_m3h": 36.839,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 36.839
+    },
+    {
+      "zone_id": "ZON_0396",
+      "node_id": "ZON_0396",
+      "name": "Dogu ZON_0396",
+      "district": "Dogu",
+      "population": 31780,
+      "normal_demand_m3h": 29.849,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 29.849
+    },
+    {
+      "zone_id": "ZON_0397",
+      "node_id": "ZON_0397",
+      "name": "Sanayi ZON_0397",
+      "district": "Sanayi",
+      "population": 29860,
+      "normal_demand_m3h": 65.483,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 65.483
+    },
+    {
+      "zone_id": "ZON_0398",
+      "node_id": "ZON_0398",
+      "name": "Dogu ZON_0398",
+      "district": "Dogu",
+      "population": 6640,
+      "normal_demand_m3h": 535.976,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 535.976
+    },
+    {
+      "zone_id": "ZON_0399",
+      "node_id": "ZON_0399",
+      "name": "Sanayi ZON_0399",
+      "district": "Sanayi",
+      "population": 30792,
+      "normal_demand_m3h": 153.046,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 153.046
+    },
+    {
+      "zone_id": "ZON_0400",
+      "node_id": "ZON_0400",
+      "name": "Dogu ZON_0400",
+      "district": "Dogu",
+      "population": 42197,
+      "normal_demand_m3h": 224.327,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 224.327
+    },
+    {
+      "zone_id": "ZON_0401",
+      "node_id": "ZON_0401",
+      "name": "Dogu ZON_0401",
+      "district": "Dogu",
+      "population": 39247,
+      "normal_demand_m3h": 137.995,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 137.995
+    },
+    {
+      "zone_id": "ZON_0402",
+      "node_id": "ZON_0402",
+      "name": "Dogu ZON_0402",
+      "district": "Dogu",
+      "population": 43313,
+      "normal_demand_m3h": 107.488,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 107.488
+    },
+    {
+      "zone_id": "ZON_0403",
+      "node_id": "ZON_0403",
+      "name": "Dogu ZON_0403",
+      "district": "Dogu",
+      "population": 9158,
+      "normal_demand_m3h": 164.868,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 164.868
+    },
+    {
+      "zone_id": "ZON_0404",
+      "node_id": "ZON_0404",
+      "name": "Sanayi ZON_0404",
+      "district": "Sanayi",
+      "population": 10608,
+      "normal_demand_m3h": 63.654,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 63.654
+    },
+    {
+      "zone_id": "ZON_0405",
+      "node_id": "ZON_0405",
+      "name": "Dogu ZON_0405",
+      "district": "Dogu",
+      "population": 41366,
+      "normal_demand_m3h": 126.687,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 126.687
+    },
+    {
+      "zone_id": "ZON_0406",
+      "node_id": "ZON_0406",
+      "name": "Sanayi ZON_0406",
+      "district": "Sanayi",
+      "population": 10788,
+      "normal_demand_m3h": 196.331,
+      "critical_demand_m3h": 99.34,
+      "total_demand_m3h": 295.671
+    },
+    {
+      "zone_id": "ZON_0407",
+      "node_id": "ZON_0407",
+      "name": "Sanayi ZON_0407",
+      "district": "Sanayi",
+      "population": 24914,
+      "normal_demand_m3h": 146.005,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 146.005
+    },
+    {
+      "zone_id": "ZON_0408",
+      "node_id": "ZON_0408",
+      "name": "Dogu ZON_0408",
+      "district": "Dogu",
+      "population": 19630,
+      "normal_demand_m3h": 204.491,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 204.491
+    },
+    {
+      "zone_id": "ZON_0409",
+      "node_id": "ZON_0409",
+      "name": "Dogu ZON_0409",
+      "district": "Dogu",
+      "population": 38170,
+      "normal_demand_m3h": 105.976,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 105.976
+    },
+    {
+      "zone_id": "ZON_0410",
+      "node_id": "ZON_0410",
+      "name": "Sanayi ZON_0410",
+      "district": "Sanayi",
+      "population": 16956,
+      "normal_demand_m3h": 270.18,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 270.18
+    },
+    {
+      "zone_id": "ZON_0411",
+      "node_id": "ZON_0411",
+      "name": "Dogu ZON_0411",
+      "district": "Dogu",
+      "population": 9413,
+      "normal_demand_m3h": 83.171,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 83.171
+    },
+    {
+      "zone_id": "ZON_0412",
+      "node_id": "ZON_0412",
+      "name": "Sanayi ZON_0412",
+      "district": "Sanayi",
+      "population": 24516,
+      "normal_demand_m3h": 351.767,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 351.767
+    },
+    {
+      "zone_id": "ZON_0413",
+      "node_id": "ZON_0413",
+      "name": "Sanayi ZON_0413",
+      "district": "Sanayi",
+      "population": 24350,
+      "normal_demand_m3h": 135.049,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 135.049
+    },
+    {
+      "zone_id": "ZON_0414",
+      "node_id": "ZON_0414",
+      "name": "Sanayi ZON_0414",
+      "district": "Sanayi",
+      "population": 9421,
+      "normal_demand_m3h": 74.586,
+      "critical_demand_m3h": 37.555,
+      "total_demand_m3h": 112.141
+    },
+    {
+      "zone_id": "ZON_0415",
+      "node_id": "ZON_0415",
+      "name": "Sanayi ZON_0415",
+      "district": "Sanayi",
+      "population": 20772,
+      "normal_demand_m3h": 45.556,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 45.556
+    },
+    {
+      "zone_id": "ZON_0416",
+      "node_id": "ZON_0416",
+      "name": "Dogu ZON_0416",
+      "district": "Dogu",
+      "population": 22278,
+      "normal_demand_m3h": 57.343,
+      "critical_demand_m3h": 21.652,
+      "total_demand_m3h": 78.995
+    },
+    {
+      "zone_id": "ZON_0417",
+      "node_id": "ZON_0417",
+      "name": "Sanayi ZON_0417",
+      "district": "Sanayi",
+      "population": 44282,
+      "normal_demand_m3h": 52.206,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 52.206
+    },
+    {
+      "zone_id": "ZON_0418",
+      "node_id": "ZON_0418",
+      "name": "Dogu ZON_0418",
+      "district": "Dogu",
+      "population": 34648,
+      "normal_demand_m3h": 89.568,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 89.568
+    },
+    {
+      "zone_id": "ZON_0419",
+      "node_id": "ZON_0419",
+      "name": "Sanayi ZON_0419",
+      "district": "Sanayi",
+      "population": 11390,
+      "normal_demand_m3h": 42.955,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 42.955
+    },
+    {
+      "zone_id": "ZON_0420",
+      "node_id": "ZON_0420",
+      "name": "Dogu ZON_0420",
+      "district": "Dogu",
+      "population": 31431,
+      "normal_demand_m3h": 210.927,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 210.927
+    },
+    {
+      "zone_id": "ZON_0421",
+      "node_id": "ZON_0421",
+      "name": "Dogu ZON_0421",
+      "district": "Dogu",
+      "population": 35536,
+      "normal_demand_m3h": 101.357,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.357
+    },
+    {
+      "zone_id": "ZON_0422",
+      "node_id": "ZON_0422",
+      "name": "Sanayi ZON_0422",
+      "district": "Sanayi",
+      "population": 42775,
+      "normal_demand_m3h": 98.839,
+      "critical_demand_m3h": 30.524,
+      "total_demand_m3h": 129.363
+    },
+    {
+      "zone_id": "ZON_0423",
+      "node_id": "ZON_0423",
+      "name": "Sanayi ZON_0423",
+      "district": "Sanayi",
+      "population": 16201,
+      "normal_demand_m3h": 45.946,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 45.946
+    },
+    {
+      "zone_id": "ZON_0424",
+      "node_id": "ZON_0424",
+      "name": "Sanayi ZON_0424",
+      "district": "Sanayi",
+      "population": 16446,
+      "normal_demand_m3h": 58.744,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 58.744
+    },
+    {
+      "zone_id": "ZON_0425",
+      "node_id": "ZON_0425",
+      "name": "Sanayi ZON_0425",
+      "district": "Sanayi",
+      "population": 5949,
+      "normal_demand_m3h": 23.888,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 23.888
+    },
+    {
+      "zone_id": "ZON_0426",
+      "node_id": "ZON_0426",
+      "name": "Dogu ZON_0426",
+      "district": "Dogu",
+      "population": 21983,
+      "normal_demand_m3h": 258.021,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 258.021
+    },
+    {
+      "zone_id": "ZON_0427",
+      "node_id": "ZON_0427",
+      "name": "Sanayi ZON_0427",
+      "district": "Sanayi",
+      "population": 31327,
+      "normal_demand_m3h": 39.292,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 39.292
+    },
+    {
+      "zone_id": "ZON_0428",
+      "node_id": "ZON_0428",
+      "name": "Sanayi ZON_0428",
+      "district": "Sanayi",
+      "population": 46731,
+      "normal_demand_m3h": 41.183,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 41.183
+    },
+    {
+      "zone_id": "ZON_0429",
+      "node_id": "ZON_0429",
+      "name": "Dogu ZON_0429",
+      "district": "Dogu",
+      "population": 37501,
+      "normal_demand_m3h": 227.277,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 227.277
+    },
+    {
+      "zone_id": "ZON_0430",
+      "node_id": "ZON_0430",
+      "name": "Sanayi ZON_0430",
+      "district": "Sanayi",
+      "population": 15428,
+      "normal_demand_m3h": 120.336,
+      "critical_demand_m3h": 52.781,
+      "total_demand_m3h": 173.118
+    },
+    {
+      "zone_id": "ZON_0431",
+      "node_id": "ZON_0431",
+      "name": "Dogu ZON_0431",
+      "district": "Dogu",
+      "population": 34667,
+      "normal_demand_m3h": 101.988,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.988
+    },
+    {
+      "zone_id": "ZON_0432",
+      "node_id": "ZON_0432",
+      "name": "Sanayi ZON_0432",
+      "district": "Sanayi",
+      "population": 30625,
+      "normal_demand_m3h": 116.859,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 116.859
+    },
+    {
+      "zone_id": "ZON_0433",
+      "node_id": "ZON_0433",
+      "name": "Dogu ZON_0433",
+      "district": "Dogu",
+      "population": 22328,
+      "normal_demand_m3h": 170.958,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 170.958
+    },
+    {
+      "zone_id": "ZON_0434",
+      "node_id": "ZON_0434",
+      "name": "Dogu ZON_0434",
+      "district": "Dogu",
+      "population": 31246,
+      "normal_demand_m3h": 100.678,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 100.678
+    },
+    {
+      "zone_id": "ZON_0435",
+      "node_id": "ZON_0435",
+      "name": "Sanayi ZON_0435",
+      "district": "Sanayi",
+      "population": 34937,
+      "normal_demand_m3h": 36.343,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 36.343
+    },
+    {
+      "zone_id": "ZON_0436",
+      "node_id": "ZON_0436",
+      "name": "Sanayi ZON_0436",
+      "district": "Sanayi",
+      "population": 20461,
+      "normal_demand_m3h": 149.094,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 149.094
+    },
+    {
+      "zone_id": "ZON_0437",
+      "node_id": "ZON_0437",
+      "name": "Sanayi ZON_0437",
+      "district": "Sanayi",
+      "population": 40630,
+      "normal_demand_m3h": 122.959,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 122.959
+    },
+    {
+      "zone_id": "ZON_0438",
+      "node_id": "ZON_0438",
+      "name": "Sanayi ZON_0438",
+      "district": "Sanayi",
+      "population": 2890,
+      "normal_demand_m3h": 195.657,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 195.657
+    },
+    {
+      "zone_id": "ZON_0439",
+      "node_id": "ZON_0439",
+      "name": "Dogu ZON_0439",
+      "district": "Dogu",
+      "population": 16367,
+      "normal_demand_m3h": 43.622,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 43.622
+    },
+    {
+      "zone_id": "ZON_0440",
+      "node_id": "ZON_0440",
+      "name": "Sanayi ZON_0440",
+      "district": "Sanayi",
+      "population": 18353,
+      "normal_demand_m3h": 60.208,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 60.208
+    },
+    {
+      "zone_id": "ZON_0441",
+      "node_id": "ZON_0441",
+      "name": "Sanayi ZON_0441",
+      "district": "Sanayi",
+      "population": 40066,
+      "normal_demand_m3h": 120.674,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 120.674
+    },
+    {
+      "zone_id": "ZON_0442",
+      "node_id": "ZON_0442",
+      "name": "Dogu ZON_0442",
+      "district": "Dogu",
+      "population": 24980,
+      "normal_demand_m3h": 52.689,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 52.689
+    },
+    {
+      "zone_id": "ZON_0443",
+      "node_id": "ZON_0443",
+      "name": "Sanayi ZON_0443",
+      "district": "Sanayi",
+      "population": 44860,
+      "normal_demand_m3h": 22.004,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 22.004
+    },
+    {
+      "zone_id": "ZON_0444",
+      "node_id": "ZON_0444",
+      "name": "Sanayi ZON_0444",
+      "district": "Sanayi",
+      "population": 45666,
+      "normal_demand_m3h": 106.948,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 106.948
+    },
+    {
+      "zone_id": "ZON_0445",
+      "node_id": "ZON_0445",
+      "name": "Dogu ZON_0445",
+      "district": "Dogu",
+      "population": 24183,
+      "normal_demand_m3h": 164.828,
+      "critical_demand_m3h": 36.251,
+      "total_demand_m3h": 201.08
+    },
+    {
+      "zone_id": "ZON_0446",
+      "node_id": "ZON_0446",
+      "name": "Dogu ZON_0446",
+      "district": "Dogu",
+      "population": 15306,
+      "normal_demand_m3h": 87.362,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 87.362
+    },
+    {
+      "zone_id": "ZON_0447",
+      "node_id": "ZON_0447",
+      "name": "Dogu ZON_0447",
+      "district": "Dogu",
+      "population": 35402,
+      "normal_demand_m3h": 132.933,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 132.933
+    },
+    {
+      "zone_id": "ZON_0448",
+      "node_id": "ZON_0448",
+      "name": "Sanayi ZON_0448",
+      "district": "Sanayi",
+      "population": 1439,
+      "normal_demand_m3h": 121.521,
+      "critical_demand_m3h": 42.157,
+      "total_demand_m3h": 163.678
+    },
+    {
+      "zone_id": "ZON_0449",
+      "node_id": "ZON_0449",
+      "name": "Dogu ZON_0449",
+      "district": "Dogu",
+      "population": 26703,
+      "normal_demand_m3h": 95.25,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 95.25
+    },
+    {
+      "zone_id": "ZON_0450",
+      "node_id": "ZON_0450",
+      "name": "Dogu ZON_0450",
+      "district": "Dogu",
+      "population": 44962,
+      "normal_demand_m3h": 102.956,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 102.956
+    },
+    {
+      "zone_id": "ZON_0451",
+      "node_id": "ZON_0451",
+      "name": "Dogu ZON_0451",
+      "district": "Dogu",
+      "population": 5764,
+      "normal_demand_m3h": 218.43,
+      "critical_demand_m3h": 113.974,
+      "total_demand_m3h": 332.404
+    },
+    {
+      "zone_id": "ZON_0452",
+      "node_id": "ZON_0452",
+      "name": "Dogu ZON_0452",
+      "district": "Dogu",
+      "population": 21256,
+      "normal_demand_m3h": 52.048,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 52.048
+    },
+    {
+      "zone_id": "ZON_0453",
+      "node_id": "ZON_0453",
+      "name": "Dogu ZON_0453",
+      "district": "Dogu",
+      "population": 37758,
+      "normal_demand_m3h": 152.824,
+      "critical_demand_m3h": 67.573,
+      "total_demand_m3h": 220.397
+    },
+    {
+      "zone_id": "ZON_0454",
+      "node_id": "ZON_0454",
+      "name": "Sanayi ZON_0454",
+      "district": "Sanayi",
+      "population": 25149,
+      "normal_demand_m3h": 45.507,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 45.507
+    },
+    {
+      "zone_id": "ZON_0455",
+      "node_id": "ZON_0455",
+      "name": "Sanayi ZON_0455",
+      "district": "Sanayi",
+      "population": 12486,
+      "normal_demand_m3h": 57.814,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 57.814
+    },
+    {
+      "zone_id": "ZON_0456",
+      "node_id": "ZON_0456",
+      "name": "Sanayi ZON_0456",
+      "district": "Sanayi",
+      "population": 12349,
+      "normal_demand_m3h": 198.635,
+      "critical_demand_m3h": 48.091,
+      "total_demand_m3h": 246.726
+    },
+    {
+      "zone_id": "ZON_0457",
+      "node_id": "ZON_0457",
+      "name": "Sanayi ZON_0457",
+      "district": "Sanayi",
+      "population": 42234,
+      "normal_demand_m3h": 44.697,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 44.697
+    },
+    {
+      "zone_id": "ZON_0458",
+      "node_id": "ZON_0458",
+      "name": "Sanayi ZON_0458",
+      "district": "Sanayi",
+      "population": 43128,
+      "normal_demand_m3h": 81.468,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.468
+    },
+    {
+      "zone_id": "ZON_0459",
+      "node_id": "ZON_0459",
+      "name": "Sanayi ZON_0459",
+      "district": "Sanayi",
+      "population": 40338,
+      "normal_demand_m3h": 409.131,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 409.131
+    },
+    {
+      "zone_id": "ZON_0460",
+      "node_id": "ZON_0460",
+      "name": "Dogu ZON_0460",
+      "district": "Dogu",
+      "population": 32339,
+      "normal_demand_m3h": 178.724,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 178.724
+    },
+    {
+      "zone_id": "ZON_0461",
+      "node_id": "ZON_0461",
+      "name": "Sanayi ZON_0461",
+      "district": "Sanayi",
+      "population": 6614,
+      "normal_demand_m3h": 59.917,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.917
+    },
+    {
+      "zone_id": "ZON_0462",
+      "node_id": "ZON_0462",
+      "name": "Dogu ZON_0462",
+      "district": "Dogu",
+      "population": 47205,
+      "normal_demand_m3h": 66.632,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.632
+    },
+    {
+      "zone_id": "ZON_0463",
+      "node_id": "ZON_0463",
+      "name": "Sanayi ZON_0463",
+      "district": "Sanayi",
+      "population": 4283,
+      "normal_demand_m3h": 85.16,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 85.16
+    },
+    {
+      "zone_id": "ZON_0464",
+      "node_id": "ZON_0464",
+      "name": "Sanayi ZON_0464",
+      "district": "Sanayi",
+      "population": 27709,
+      "normal_demand_m3h": 213.451,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 213.451
+    },
+    {
+      "zone_id": "ZON_0465",
+      "node_id": "ZON_0465",
+      "name": "Sanayi ZON_0465",
+      "district": "Sanayi",
+      "population": 38838,
+      "normal_demand_m3h": 50.855,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 50.855
+    },
+    {
+      "zone_id": "ZON_0466",
+      "node_id": "ZON_0466",
+      "name": "Sanayi ZON_0466",
+      "district": "Sanayi",
+      "population": 5164,
+      "normal_demand_m3h": 48.982,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 48.982
+    },
+    {
+      "zone_id": "ZON_0467",
+      "node_id": "ZON_0467",
+      "name": "Sanayi ZON_0467",
+      "district": "Sanayi",
+      "population": 24456,
+      "normal_demand_m3h": 147.272,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 147.272
+    },
+    {
+      "zone_id": "ZON_0468",
+      "node_id": "ZON_0468",
+      "name": "Dogu ZON_0468",
+      "district": "Dogu",
+      "population": 23559,
+      "normal_demand_m3h": 33.371,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 33.371
+    },
+    {
+      "zone_id": "ZON_0469",
+      "node_id": "ZON_0469",
+      "name": "Sanayi ZON_0469",
+      "district": "Sanayi",
+      "population": 10421,
+      "normal_demand_m3h": 53.792,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 53.792
+    },
+    {
+      "zone_id": "ZON_0470",
+      "node_id": "ZON_0470",
+      "name": "Dogu ZON_0470",
+      "district": "Dogu",
+      "population": 6431,
+      "normal_demand_m3h": 89.769,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 89.769
+    },
+    {
+      "zone_id": "ZON_0471",
+      "node_id": "ZON_0471",
+      "name": "Dogu ZON_0471",
+      "district": "Dogu",
+      "population": 43784,
+      "normal_demand_m3h": 92.669,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 92.669
+    },
+    {
+      "zone_id": "ZON_0472",
+      "node_id": "ZON_0472",
+      "name": "Sanayi ZON_0472",
+      "district": "Sanayi",
+      "population": 43383,
+      "normal_demand_m3h": 40.607,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 40.607
+    },
+    {
+      "zone_id": "ZON_0473",
+      "node_id": "ZON_0473",
+      "name": "Dogu ZON_0473",
+      "district": "Dogu",
+      "population": 5588,
+      "normal_demand_m3h": 117.839,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 117.839
+    },
+    {
+      "zone_id": "ZON_0474",
+      "node_id": "ZON_0474",
+      "name": "Dogu ZON_0474",
+      "district": "Dogu",
+      "population": 14230,
+      "normal_demand_m3h": 133.398,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 133.398
+    },
+    {
+      "zone_id": "ZON_0475",
+      "node_id": "ZON_0475",
+      "name": "Sanayi ZON_0475",
+      "district": "Sanayi",
+      "population": 19557,
+      "normal_demand_m3h": 62.756,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 62.756
+    },
+    {
+      "zone_id": "ZON_0476",
+      "node_id": "ZON_0476",
+      "name": "Sanayi ZON_0476",
+      "district": "Sanayi",
+      "population": 10432,
+      "normal_demand_m3h": 264.984,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 264.984
+    },
+    {
+      "zone_id": "ZON_0477",
+      "node_id": "ZON_0477",
+      "name": "Dogu ZON_0477",
+      "district": "Dogu",
+      "population": 4312,
+      "normal_demand_m3h": 116.811,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 116.811
+    },
+    {
+      "zone_id": "ZON_0478",
+      "node_id": "ZON_0478",
+      "name": "Dogu ZON_0478",
+      "district": "Dogu",
+      "population": 25144,
+      "normal_demand_m3h": 50.754,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 50.754
+    },
+    {
+      "zone_id": "ZON_0479",
+      "node_id": "ZON_0479",
+      "name": "Sanayi ZON_0479",
+      "district": "Sanayi",
+      "population": 21886,
+      "normal_demand_m3h": 258.497,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 258.497
+    },
+    {
+      "zone_id": "ZON_0480",
+      "node_id": "ZON_0480",
+      "name": "Sanayi ZON_0480",
+      "district": "Sanayi",
+      "population": 38971,
+      "normal_demand_m3h": 68.411,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 68.411
+    },
+    {
+      "zone_id": "ZON_0481",
+      "node_id": "ZON_0481",
+      "name": "Sanayi ZON_0481",
+      "district": "Sanayi",
+      "population": 15077,
+      "normal_demand_m3h": 105.731,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 105.731
+    },
+    {
+      "zone_id": "ZON_0482",
+      "node_id": "ZON_0482",
+      "name": "Sanayi ZON_0482",
+      "district": "Sanayi",
+      "population": 25084,
+      "normal_demand_m3h": 69.979,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 69.979
+    },
+    {
+      "zone_id": "ZON_0483",
+      "node_id": "ZON_0483",
+      "name": "Sanayi ZON_0483",
+      "district": "Sanayi",
+      "population": 15894,
+      "normal_demand_m3h": 139.348,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 139.348
+    },
+    {
+      "zone_id": "ZON_0484",
+      "node_id": "ZON_0484",
+      "name": "Dogu ZON_0484",
+      "district": "Dogu",
+      "population": 2988,
+      "normal_demand_m3h": 70.207,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.207
+    },
+    {
+      "zone_id": "ZON_0485",
+      "node_id": "ZON_0485",
+      "name": "Dogu ZON_0485",
+      "district": "Dogu",
+      "population": 35251,
+      "normal_demand_m3h": 72.899,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 72.899
+    },
+    {
+      "zone_id": "ZON_0486",
+      "node_id": "ZON_0486",
+      "name": "Sanayi ZON_0486",
+      "district": "Sanayi",
+      "population": 35970,
+      "normal_demand_m3h": 85.697,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 85.697
+    },
+    {
+      "zone_id": "ZON_0487",
+      "node_id": "ZON_0487",
+      "name": "Sanayi ZON_0487",
+      "district": "Sanayi",
+      "population": 32274,
+      "normal_demand_m3h": 69.324,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 69.324
+    },
+    {
+      "zone_id": "ZON_0488",
+      "node_id": "ZON_0488",
+      "name": "Sanayi ZON_0488",
+      "district": "Sanayi",
+      "population": 2794,
+      "normal_demand_m3h": 183.924,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 183.924
+    },
+    {
+      "zone_id": "ZON_0489",
+      "node_id": "ZON_0489",
+      "name": "Dogu ZON_0489",
+      "district": "Dogu",
+      "population": 33796,
+      "normal_demand_m3h": 43.387,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 43.387
+    },
+    {
+      "zone_id": "ZON_0490",
+      "node_id": "ZON_0490",
+      "name": "Dogu ZON_0490",
+      "district": "Dogu",
+      "population": 29484,
+      "normal_demand_m3h": 92.478,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 92.478
+    },
+    {
+      "zone_id": "ZON_0491",
+      "node_id": "ZON_0491",
+      "name": "Dogu ZON_0491",
+      "district": "Dogu",
+      "population": 21838,
+      "normal_demand_m3h": 100.03,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 100.03
+    },
+    {
+      "zone_id": "ZON_0492",
+      "node_id": "ZON_0492",
+      "name": "Dogu ZON_0492",
+      "district": "Dogu",
+      "population": 30072,
+      "normal_demand_m3h": 87.595,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 87.595
+    },
+    {
+      "zone_id": "ZON_0493",
+      "node_id": "ZON_0493",
+      "name": "Dogu ZON_0493",
+      "district": "Dogu",
+      "population": 6385,
+      "normal_demand_m3h": 172.491,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 172.491
+    },
+    {
+      "zone_id": "ZON_0494",
+      "node_id": "ZON_0494",
+      "name": "Sanayi ZON_0494",
+      "district": "Sanayi",
+      "population": 10958,
+      "normal_demand_m3h": 37.246,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 37.246
+    },
+    {
+      "zone_id": "ZON_0495",
+      "node_id": "ZON_0495",
+      "name": "Sanayi ZON_0495",
+      "district": "Sanayi",
+      "population": 7239,
+      "normal_demand_m3h": 134.573,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 134.573
+    },
+    {
+      "zone_id": "ZON_0496",
+      "node_id": "ZON_0496",
+      "name": "Dogu ZON_0496",
+      "district": "Dogu",
+      "population": 22099,
+      "normal_demand_m3h": 43.734,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 43.734
+    },
+    {
+      "zone_id": "ZON_0497",
+      "node_id": "ZON_0497",
+      "name": "Sanayi ZON_0497",
+      "district": "Sanayi",
+      "population": 43098,
+      "normal_demand_m3h": 69.031,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 69.031
+    },
+    {
+      "zone_id": "ZON_0498",
+      "node_id": "ZON_0498",
+      "name": "Dogu ZON_0498",
+      "district": "Dogu",
+      "population": 1489,
+      "normal_demand_m3h": 41.035,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 41.035
+    },
+    {
+      "zone_id": "ZON_0499",
+      "node_id": "ZON_0499",
+      "name": "Dogu ZON_0499",
+      "district": "Dogu",
+      "population": 22078,
+      "normal_demand_m3h": 77.023,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 77.023
+    },
+    {
+      "zone_id": "ZON_0500",
+      "node_id": "ZON_0500",
+      "name": "Dogu ZON_0500",
+      "district": "Dogu",
+      "population": 14476,
+      "normal_demand_m3h": 66.122,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.122
+    },
+    {
+      "zone_id": "ZON_0501",
+      "node_id": "ZON_0501",
+      "name": "Sanayi ZON_0501",
+      "district": "Sanayi",
+      "population": 45075,
+      "normal_demand_m3h": 261.316,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 261.316
+    },
+    {
+      "zone_id": "ZON_0502",
+      "node_id": "ZON_0502",
+      "name": "Dogu ZON_0502",
+      "district": "Dogu",
+      "population": 30185,
+      "normal_demand_m3h": 109.908,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 109.908
+    },
+    {
+      "zone_id": "ZON_0503",
+      "node_id": "ZON_0503",
+      "name": "Sanayi ZON_0503",
+      "district": "Sanayi",
+      "population": 11589,
+      "normal_demand_m3h": 124.296,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 124.296
+    },
+    {
+      "zone_id": "ZON_0504",
+      "node_id": "ZON_0504",
+      "name": "Dogu ZON_0504",
+      "district": "Dogu",
+      "population": 14499,
+      "normal_demand_m3h": 47.625,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 47.625
+    },
+    {
+      "zone_id": "ZON_0505",
+      "node_id": "ZON_0505",
+      "name": "Dogu ZON_0505",
+      "district": "Dogu",
+      "population": 38749,
+      "normal_demand_m3h": 149.732,
+      "critical_demand_m3h": 64.307,
+      "total_demand_m3h": 214.039
+    },
+    {
+      "zone_id": "ZON_0506",
+      "node_id": "ZON_0506",
+      "name": "Dogu ZON_0506",
+      "district": "Dogu",
+      "population": 35944,
+      "normal_demand_m3h": 261.308,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 261.308
+    },
+    {
+      "zone_id": "ZON_0507",
+      "node_id": "ZON_0507",
+      "name": "Dogu ZON_0507",
+      "district": "Dogu",
+      "population": 9238,
+      "normal_demand_m3h": 162.283,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 162.283
+    },
+    {
+      "zone_id": "ZON_0508",
+      "node_id": "ZON_0508",
+      "name": "Dogu ZON_0508",
+      "district": "Dogu",
+      "population": 41587,
+      "normal_demand_m3h": 41.953,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 41.953
+    },
+    {
+      "zone_id": "ZON_0509",
+      "node_id": "ZON_0509",
+      "name": "Dogu ZON_0509",
+      "district": "Dogu",
+      "population": 11721,
+      "normal_demand_m3h": 70.968,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.968
+    },
+    {
+      "zone_id": "ZON_0510",
+      "node_id": "ZON_0510",
+      "name": "Dogu ZON_0510",
+      "district": "Dogu",
+      "population": 42175,
+      "normal_demand_m3h": 101.217,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.217
+    },
+    {
+      "zone_id": "ZON_0511",
+      "node_id": "ZON_0511",
+      "name": "Sanayi ZON_0511",
+      "district": "Sanayi",
+      "population": 15047,
+      "normal_demand_m3h": 66.165,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.165
+    },
+    {
+      "zone_id": "ZON_0512",
+      "node_id": "ZON_0512",
+      "name": "Dogu ZON_0512",
+      "district": "Dogu",
+      "population": 24427,
+      "normal_demand_m3h": 455.071,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 455.071
+    },
+    {
+      "zone_id": "ZON_0513",
+      "node_id": "ZON_0513",
+      "name": "Sanayi ZON_0513",
+      "district": "Sanayi",
+      "population": 45995,
+      "normal_demand_m3h": 70.175,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.175
+    },
+    {
+      "zone_id": "ZON_0514",
+      "node_id": "ZON_0514",
+      "name": "Dogu ZON_0514",
+      "district": "Dogu",
+      "population": 20264,
+      "normal_demand_m3h": 92.123,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 92.123
+    },
+    {
+      "zone_id": "ZON_0515",
+      "node_id": "ZON_0515",
+      "name": "Dogu ZON_0515",
+      "district": "Dogu",
+      "population": 17973,
+      "normal_demand_m3h": 65.226,
+      "critical_demand_m3h": 30.871,
+      "total_demand_m3h": 96.097
+    },
+    {
+      "zone_id": "ZON_0516",
+      "node_id": "ZON_0516",
+      "name": "Sanayi ZON_0516",
+      "district": "Sanayi",
+      "population": 23445,
+      "normal_demand_m3h": 109.251,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 109.251
+    },
+    {
+      "zone_id": "ZON_0517",
+      "node_id": "ZON_0517",
+      "name": "Sanayi ZON_0517",
+      "district": "Sanayi",
+      "population": 15450,
+      "normal_demand_m3h": 222.974,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 222.974
+    },
+    {
+      "zone_id": "ZON_0518",
+      "node_id": "ZON_0518",
+      "name": "Dogu ZON_0518",
+      "district": "Dogu",
+      "population": 47773,
+      "normal_demand_m3h": 101.617,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 101.617
+    },
+    {
+      "zone_id": "ZON_0519",
+      "node_id": "ZON_0519",
+      "name": "Sanayi ZON_0519",
+      "district": "Sanayi",
+      "population": 26972,
+      "normal_demand_m3h": 82.617,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 82.617
+    },
+    {
+      "zone_id": "ZON_0520",
+      "node_id": "ZON_0520",
+      "name": "Sanayi ZON_0520",
+      "district": "Sanayi",
+      "population": 31035,
+      "normal_demand_m3h": 48.627,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 48.627
+    },
+    {
+      "zone_id": "ZON_0521",
+      "node_id": "ZON_0521",
+      "name": "Sanayi ZON_0521",
+      "district": "Sanayi",
+      "population": 25669,
+      "normal_demand_m3h": 200.232,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 200.232
+    },
+    {
+      "zone_id": "ZON_0522",
+      "node_id": "ZON_0522",
+      "name": "Dogu ZON_0522",
+      "district": "Dogu",
+      "population": 15619,
+      "normal_demand_m3h": 86.566,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 86.566
+    },
+    {
+      "zone_id": "ZON_0523",
+      "node_id": "ZON_0523",
+      "name": "Sanayi ZON_0523",
+      "district": "Sanayi",
+      "population": 28632,
+      "normal_demand_m3h": 84.289,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 84.289
+    },
+    {
+      "zone_id": "ZON_0524",
+      "node_id": "ZON_0524",
+      "name": "Sanayi ZON_0524",
+      "district": "Sanayi",
+      "population": 38345,
+      "normal_demand_m3h": 22.195,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 22.195
+    },
+    {
+      "zone_id": "ZON_0525",
+      "node_id": "ZON_0525",
+      "name": "Dogu ZON_0525",
+      "district": "Dogu",
+      "population": 5646,
+      "normal_demand_m3h": 87.455,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 87.455
+    },
+    {
+      "zone_id": "ZON_0526",
+      "node_id": "ZON_0526",
+      "name": "Dogu ZON_0526",
+      "district": "Dogu",
+      "population": 17128,
+      "normal_demand_m3h": 73.797,
+      "critical_demand_m3h": 38.835,
+      "total_demand_m3h": 112.632
+    },
+    {
+      "zone_id": "ZON_0527",
+      "node_id": "ZON_0527",
+      "name": "Sanayi ZON_0527",
+      "district": "Sanayi",
+      "population": 10506,
+      "normal_demand_m3h": 30.505,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 30.505
+    },
+    {
+      "zone_id": "ZON_0528",
+      "node_id": "ZON_0528",
+      "name": "Dogu ZON_0528",
+      "district": "Dogu",
+      "population": 33260,
+      "normal_demand_m3h": 174.785,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 174.785
+    },
+    {
+      "zone_id": "ZON_0529",
+      "node_id": "ZON_0529",
+      "name": "Sanayi ZON_0529",
+      "district": "Sanayi",
+      "population": 25760,
+      "normal_demand_m3h": 67.908,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 67.908
+    },
+    {
+      "zone_id": "ZON_0530",
+      "node_id": "ZON_0530",
+      "name": "Dogu ZON_0530",
+      "district": "Dogu",
+      "population": 30464,
+      "normal_demand_m3h": 306.511,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 306.511
+    },
+    {
+      "zone_id": "ZON_0531",
+      "node_id": "ZON_0531",
+      "name": "Sanayi ZON_0531",
+      "district": "Sanayi",
+      "population": 34680,
+      "normal_demand_m3h": 227.455,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 227.455
+    },
+    {
+      "zone_id": "ZON_0532",
+      "node_id": "ZON_0532",
+      "name": "Sanayi ZON_0532",
+      "district": "Sanayi",
+      "population": 5686,
+      "normal_demand_m3h": 60.562,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 60.562
+    },
+    {
+      "zone_id": "ZON_0533",
+      "node_id": "ZON_0533",
+      "name": "Dogu ZON_0533",
+      "district": "Dogu",
+      "population": 32997,
+      "normal_demand_m3h": 221.179,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 221.179
+    },
+    {
+      "zone_id": "ZON_0534",
+      "node_id": "ZON_0534",
+      "name": "Sanayi ZON_0534",
+      "district": "Sanayi",
+      "population": 19039,
+      "normal_demand_m3h": 256.861,
+      "critical_demand_m3h": 75.87,
+      "total_demand_m3h": 332.731
+    },
+    {
+      "zone_id": "ZON_0535",
+      "node_id": "ZON_0535",
+      "name": "Sanayi ZON_0535",
+      "district": "Sanayi",
+      "population": 44762,
+      "normal_demand_m3h": 66.913,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.913
+    },
+    {
+      "zone_id": "ZON_0536",
+      "node_id": "ZON_0536",
+      "name": "Dogu ZON_0536",
+      "district": "Dogu",
+      "population": 5717,
+      "normal_demand_m3h": 49.887,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 49.887
+    },
+    {
+      "zone_id": "ZON_0537",
+      "node_id": "ZON_0537",
+      "name": "Sanayi ZON_0537",
+      "district": "Sanayi",
+      "population": 9107,
+      "normal_demand_m3h": 24.87,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 24.87
+    },
+    {
+      "zone_id": "ZON_0538",
+      "node_id": "ZON_0538",
+      "name": "Dogu ZON_0538",
+      "district": "Dogu",
+      "population": 39111,
+      "normal_demand_m3h": 119.806,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 119.806
+    },
+    {
+      "zone_id": "ZON_0539",
+      "node_id": "ZON_0539",
+      "name": "Sanayi ZON_0539",
+      "district": "Sanayi",
+      "population": 33072,
+      "normal_demand_m3h": 51.756,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 51.756
+    },
+    {
+      "zone_id": "ZON_0540",
+      "node_id": "ZON_0540",
+      "name": "Sanayi ZON_0540",
+      "district": "Sanayi",
+      "population": 41460,
+      "normal_demand_m3h": 122.059,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 122.059
+    },
+    {
+      "zone_id": "ZON_0541",
+      "node_id": "ZON_0541",
+      "name": "Sanayi ZON_0541",
+      "district": "Sanayi",
+      "population": 2315,
+      "normal_demand_m3h": 66.549,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.549
+    },
+    {
+      "zone_id": "ZON_0542",
+      "node_id": "ZON_0542",
+      "name": "Dogu ZON_0542",
+      "district": "Dogu",
+      "population": 7483,
+      "normal_demand_m3h": 58.356,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 58.356
+    },
+    {
+      "zone_id": "ZON_0543",
+      "node_id": "ZON_0543",
+      "name": "Dogu ZON_0543",
+      "district": "Dogu",
+      "population": 40363,
+      "normal_demand_m3h": 66.812,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.812
+    },
+    {
+      "zone_id": "ZON_0544",
+      "node_id": "ZON_0544",
+      "name": "Dogu ZON_0544",
+      "district": "Dogu",
+      "population": 39230,
+      "normal_demand_m3h": 42.272,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 42.272
+    },
+    {
+      "zone_id": "ZON_0545",
+      "node_id": "ZON_0545",
+      "name": "Dogu ZON_0545",
+      "district": "Dogu",
+      "population": 39848,
+      "normal_demand_m3h": 66.792,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.792
+    },
+    {
+      "zone_id": "ZON_0546",
+      "node_id": "ZON_0546",
+      "name": "Sanayi ZON_0546",
+      "district": "Sanayi",
+      "population": 43226,
+      "normal_demand_m3h": 59.937,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.937
+    },
+    {
+      "zone_id": "ZON_0547",
+      "node_id": "ZON_0547",
+      "name": "Sanayi ZON_0547",
+      "district": "Sanayi",
+      "population": 11988,
+      "normal_demand_m3h": 93.806,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 93.806
+    },
+    {
+      "zone_id": "ZON_0548",
+      "node_id": "ZON_0548",
+      "name": "Dogu ZON_0548",
+      "district": "Dogu",
+      "population": 5753,
+      "normal_demand_m3h": 100.951,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 100.951
+    },
+    {
+      "zone_id": "ZON_0549",
+      "node_id": "ZON_0549",
+      "name": "Sanayi ZON_0549",
+      "district": "Sanayi",
+      "population": 35997,
+      "normal_demand_m3h": 48.709,
+      "critical_demand_m3h": 8.85,
+      "total_demand_m3h": 57.559
+    },
+    {
+      "zone_id": "ZON_0550",
+      "node_id": "ZON_0550",
+      "name": "Dogu ZON_0550",
+      "district": "Dogu",
+      "population": 46000,
+      "normal_demand_m3h": 187.26,
+      "critical_demand_m3h": 72.389,
+      "total_demand_m3h": 259.649
+    },
+    {
+      "zone_id": "ZON_0551",
+      "node_id": "ZON_0551",
+      "name": "Dogu ZON_0551",
+      "district": "Dogu",
+      "population": 29613,
+      "normal_demand_m3h": 85.718,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 85.718
+    },
+    {
+      "zone_id": "ZON_0552",
+      "node_id": "ZON_0552",
+      "name": "Dogu ZON_0552",
+      "district": "Dogu",
+      "population": 17023,
+      "normal_demand_m3h": 240.21,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 240.21
+    },
+    {
+      "zone_id": "ZON_0553",
+      "node_id": "ZON_0553",
+      "name": "Sanayi ZON_0553",
+      "district": "Sanayi",
+      "population": 43792,
+      "normal_demand_m3h": 109.889,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 109.889
+    },
+    {
+      "zone_id": "ZON_0554",
+      "node_id": "ZON_0554",
+      "name": "Dogu ZON_0554",
+      "district": "Dogu",
+      "population": 18087,
+      "normal_demand_m3h": 98.775,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 98.775
+    },
+    {
+      "zone_id": "ZON_0555",
+      "node_id": "ZON_0555",
+      "name": "Sanayi ZON_0555",
+      "district": "Sanayi",
+      "population": 30838,
+      "normal_demand_m3h": 69.797,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 69.797
+    },
+    {
+      "zone_id": "ZON_0556",
+      "node_id": "ZON_0556",
+      "name": "Dogu ZON_0556",
+      "district": "Dogu",
+      "population": 40529,
+      "normal_demand_m3h": 138.546,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 138.546
+    },
+    {
+      "zone_id": "ZON_0557",
+      "node_id": "ZON_0557",
+      "name": "Sanayi ZON_0557",
+      "district": "Sanayi",
+      "population": 26022,
+      "normal_demand_m3h": 96.622,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 96.622
+    },
+    {
+      "zone_id": "ZON_0558",
+      "node_id": "ZON_0558",
+      "name": "Dogu ZON_0558",
+      "district": "Dogu",
+      "population": 34460,
+      "normal_demand_m3h": 161.136,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 161.136
+    },
+    {
+      "zone_id": "ZON_0559",
+      "node_id": "ZON_0559",
+      "name": "Sanayi ZON_0559",
+      "district": "Sanayi",
+      "population": 40593,
+      "normal_demand_m3h": 255.927,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 255.927
+    },
+    {
+      "zone_id": "ZON_0560",
+      "node_id": "ZON_0560",
+      "name": "Dogu ZON_0560",
+      "district": "Dogu",
+      "population": 33147,
+      "normal_demand_m3h": 60.301,
+      "critical_demand_m3h": 25.231,
+      "total_demand_m3h": 85.533
+    },
+    {
+      "zone_id": "ZON_0561",
+      "node_id": "ZON_0561",
+      "name": "Dogu ZON_0561",
+      "district": "Dogu",
+      "population": 5012,
+      "normal_demand_m3h": 138.428,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 138.428
+    },
+    {
+      "zone_id": "ZON_0562",
+      "node_id": "ZON_0562",
+      "name": "Dogu ZON_0562",
+      "district": "Dogu",
+      "population": 3438,
+      "normal_demand_m3h": 136.016,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 136.016
+    },
+    {
+      "zone_id": "ZON_0563",
+      "node_id": "ZON_0563",
+      "name": "Dogu ZON_0563",
+      "district": "Dogu",
+      "population": 24577,
+      "normal_demand_m3h": 125.717,
+      "critical_demand_m3h": 31.06,
+      "total_demand_m3h": 156.777
+    },
+    {
+      "zone_id": "ZON_0564",
+      "node_id": "ZON_0564",
+      "name": "Dogu ZON_0564",
+      "district": "Dogu",
+      "population": 9473,
+      "normal_demand_m3h": 72.343,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 72.343
+    },
+    {
+      "zone_id": "ZON_0565",
+      "node_id": "ZON_0565",
+      "name": "Sanayi ZON_0565",
+      "district": "Sanayi",
+      "population": 44342,
+      "normal_demand_m3h": 73.256,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 73.256
+    },
+    {
+      "zone_id": "ZON_0566",
+      "node_id": "ZON_0566",
+      "name": "Sanayi ZON_0566",
+      "district": "Sanayi",
+      "population": 24105,
+      "normal_demand_m3h": 65.89,
+      "critical_demand_m3h": 21.478,
+      "total_demand_m3h": 87.369
+    },
+    {
+      "zone_id": "ZON_0567",
+      "node_id": "ZON_0567",
+      "name": "Sanayi ZON_0567",
+      "district": "Sanayi",
+      "population": 10315,
+      "normal_demand_m3h": 65.085,
+      "critical_demand_m3h": 32.68,
+      "total_demand_m3h": 97.766
+    },
+    {
+      "zone_id": "ZON_0568",
+      "node_id": "ZON_0568",
+      "name": "Dogu ZON_0568",
+      "district": "Dogu",
+      "population": 1680,
+      "normal_demand_m3h": 56.212,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 56.212
+    },
+    {
+      "zone_id": "ZON_0569",
+      "node_id": "ZON_0569",
+      "name": "Sanayi ZON_0569",
+      "district": "Sanayi",
+      "population": 42937,
+      "normal_demand_m3h": 88.696,
+      "critical_demand_m3h": 42.617,
+      "total_demand_m3h": 131.312
+    },
+    {
+      "zone_id": "ZON_0570",
+      "node_id": "ZON_0570",
+      "name": "Sanayi ZON_0570",
+      "district": "Sanayi",
+      "population": 7311,
+      "normal_demand_m3h": 59.154,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 59.154
+    },
+    {
+      "zone_id": "ZON_0571",
+      "node_id": "ZON_0571",
+      "name": "Sanayi ZON_0571",
+      "district": "Sanayi",
+      "population": 26622,
+      "normal_demand_m3h": 123.977,
+      "critical_demand_m3h": 38.39,
+      "total_demand_m3h": 162.368
+    },
+    {
+      "zone_id": "ZON_0572",
+      "node_id": "ZON_0572",
+      "name": "Dogu ZON_0572",
+      "district": "Dogu",
+      "population": 37521,
+      "normal_demand_m3h": 98.034,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 98.034
+    },
+    {
+      "zone_id": "ZON_0573",
+      "node_id": "ZON_0573",
+      "name": "Sanayi ZON_0573",
+      "district": "Sanayi",
+      "population": 3087,
+      "normal_demand_m3h": 105.094,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 105.094
+    },
+    {
+      "zone_id": "ZON_0574",
+      "node_id": "ZON_0574",
+      "name": "Dogu ZON_0574",
+      "district": "Dogu",
+      "population": 3556,
+      "normal_demand_m3h": 79.873,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 79.873
+    },
+    {
+      "zone_id": "ZON_0575",
+      "node_id": "ZON_0575",
+      "name": "Sanayi ZON_0575",
+      "district": "Sanayi",
+      "population": 6191,
+      "normal_demand_m3h": 98.762,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 98.762
+    },
+    {
+      "zone_id": "ZON_0576",
+      "node_id": "ZON_0576",
+      "name": "Sanayi ZON_0576",
+      "district": "Sanayi",
+      "population": 17171,
+      "normal_demand_m3h": 81.179,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 81.179
+    },
+    {
+      "zone_id": "ZON_0577",
+      "node_id": "ZON_0577",
+      "name": "Sanayi ZON_0577",
+      "district": "Sanayi",
+      "population": 14210,
+      "normal_demand_m3h": 153.441,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 153.441
+    },
+    {
+      "zone_id": "ZON_0578",
+      "node_id": "ZON_0578",
+      "name": "Sanayi ZON_0578",
+      "district": "Sanayi",
+      "population": 23723,
+      "normal_demand_m3h": 71.932,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 71.932
+    },
+    {
+      "zone_id": "ZON_0579",
+      "node_id": "ZON_0579",
+      "name": "Sanayi ZON_0579",
+      "district": "Sanayi",
+      "population": 15278,
+      "normal_demand_m3h": 119.441,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 119.441
+    },
+    {
+      "zone_id": "ZON_0580",
+      "node_id": "ZON_0580",
+      "name": "Dogu ZON_0580",
+      "district": "Dogu",
+      "population": 30482,
+      "normal_demand_m3h": 42.1,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 42.1
+    },
+    {
+      "zone_id": "ZON_0581",
+      "node_id": "ZON_0581",
+      "name": "Sanayi ZON_0581",
+      "district": "Sanayi",
+      "population": 16255,
+      "normal_demand_m3h": 147.155,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 147.155
+    },
+    {
+      "zone_id": "ZON_0582",
+      "node_id": "ZON_0582",
+      "name": "Dogu ZON_0582",
+      "district": "Dogu",
+      "population": 40335,
+      "normal_demand_m3h": 66.904,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 66.904
+    },
+    {
+      "zone_id": "ZON_0583",
+      "node_id": "ZON_0583",
+      "name": "Dogu ZON_0583",
+      "district": "Dogu",
+      "population": 15692,
+      "normal_demand_m3h": 53.753,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 53.753
+    },
+    {
+      "zone_id": "ZON_0584",
+      "node_id": "ZON_0584",
+      "name": "Sanayi ZON_0584",
+      "district": "Sanayi",
+      "population": 12641,
+      "normal_demand_m3h": 46.709,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 46.709
+    },
+    {
+      "zone_id": "ZON_0585",
+      "node_id": "ZON_0585",
+      "name": "Sanayi ZON_0585",
+      "district": "Sanayi",
+      "population": 3476,
+      "normal_demand_m3h": 44.473,
+      "critical_demand_m3h": 10.503,
+      "total_demand_m3h": 54.976
+    },
+    {
+      "zone_id": "ZON_0586",
+      "node_id": "ZON_0586",
+      "name": "Dogu ZON_0586",
+      "district": "Dogu",
+      "population": 38413,
+      "normal_demand_m3h": 70.21,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 70.21
+    },
+    {
+      "zone_id": "ZON_0587",
+      "node_id": "ZON_0587",
+      "name": "Sanayi ZON_0587",
+      "district": "Sanayi",
+      "population": 30571,
+      "normal_demand_m3h": 239.643,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 239.643
+    },
+    {
+      "zone_id": "ZON_0588",
+      "node_id": "ZON_0588",
+      "name": "Sanayi ZON_0588",
+      "district": "Sanayi",
+      "population": 44874,
+      "normal_demand_m3h": 63.506,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 63.506
+    },
+    {
+      "zone_id": "ZON_0589",
+      "node_id": "ZON_0589",
+      "name": "Dogu ZON_0589",
+      "district": "Dogu",
+      "population": 7965,
+      "normal_demand_m3h": 24.054,
+      "critical_demand_m3h": 5.041,
+      "total_demand_m3h": 29.095
+    },
+    {
+      "zone_id": "ZON_0590",
+      "node_id": "ZON_0590",
+      "name": "Dogu ZON_0590",
+      "district": "Dogu",
+      "population": 38056,
+      "normal_demand_m3h": 118.699,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 118.699
+    },
+    {
+      "zone_id": "ZON_0591",
+      "node_id": "ZON_0591",
+      "name": "Dogu ZON_0591",
+      "district": "Dogu",
+      "population": 18929,
+      "normal_demand_m3h": 47.426,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 47.426
+    },
+    {
+      "zone_id": "ZON_0592",
+      "node_id": "ZON_0592",
+      "name": "Sanayi ZON_0592",
+      "district": "Sanayi",
+      "population": 22783,
+      "normal_demand_m3h": 156.833,
+      "critical_demand_m3h": 65.845,
+      "total_demand_m3h": 222.678
+    },
+    {
+      "zone_id": "ZON_0593",
+      "node_id": "ZON_0593",
+      "name": "Dogu ZON_0593",
+      "district": "Dogu",
+      "population": 16168,
+      "normal_demand_m3h": 72.889,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 72.889
+    },
+    {
+      "zone_id": "ZON_0594",
+      "node_id": "ZON_0594",
+      "name": "Dogu ZON_0594",
+      "district": "Dogu",
+      "population": 37192,
+      "normal_demand_m3h": 79.847,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 79.847
+    },
+    {
+      "zone_id": "ZON_0595",
+      "node_id": "ZON_0595",
+      "name": "Dogu ZON_0595",
+      "district": "Dogu",
+      "population": 40074,
+      "normal_demand_m3h": 198.807,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 198.807
+    },
+    {
+      "zone_id": "ZON_0596",
+      "node_id": "ZON_0596",
+      "name": "Sanayi ZON_0596",
+      "district": "Sanayi",
+      "population": 15226,
+      "normal_demand_m3h": 138.794,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 138.794
+    },
+    {
+      "zone_id": "ZON_0597",
+      "node_id": "ZON_0597",
+      "name": "Sanayi ZON_0597",
+      "district": "Sanayi",
+      "population": 39718,
+      "normal_demand_m3h": 43.696,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 43.696
+    },
+    {
+      "zone_id": "ZON_0598",
+      "node_id": "ZON_0598",
+      "name": "Sanayi ZON_0598",
+      "district": "Sanayi",
+      "population": 47614,
+      "normal_demand_m3h": 47.869,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 47.869
+    },
+    {
+      "zone_id": "ZON_0599",
+      "node_id": "ZON_0599",
+      "name": "Sanayi ZON_0599",
+      "district": "Sanayi",
+      "population": 10269,
+      "normal_demand_m3h": 31.319,
+      "critical_demand_m3h": 0.0,
+      "total_demand_m3h": 31.319
+    }
+  ]
+}

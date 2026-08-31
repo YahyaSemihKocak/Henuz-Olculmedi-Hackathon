@@ -1,0 +1,772 @@
+{
+  "critical_demands": [
+    {
+      "zone_id": "ZON_0010",
+      "node_id": "ZON_0010",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 31.569,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0015",
+      "node_id": "ZON_0015",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 110.707,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0022",
+      "node_id": "ZON_0022",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 72.217,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0027",
+      "node_id": "ZON_0027",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 57.237,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0035",
+      "node_id": "ZON_0035",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 42.235,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0037",
+      "node_id": "ZON_0037",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 25.265,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0039",
+      "node_id": "ZON_0039",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 62.543,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0040",
+      "node_id": "ZON_0040",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 9.738,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0047",
+      "node_id": "ZON_0047",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 50.154,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0054",
+      "node_id": "ZON_0054",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 54.412,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0055",
+      "node_id": "ZON_0055",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 113.777,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0059",
+      "node_id": "ZON_0059",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 25.665,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0063",
+      "node_id": "ZON_0063",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 14.645,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0067",
+      "node_id": "ZON_0067",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 18.447,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0068",
+      "node_id": "ZON_0068",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 60.427,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0069",
+      "node_id": "ZON_0069",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 15.685,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0071",
+      "node_id": "ZON_0071",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 58.087,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0072",
+      "node_id": "ZON_0072",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 23.251,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0083",
+      "node_id": "ZON_0083",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 21.921,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0086",
+      "node_id": "ZON_0086",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 21.671,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0107",
+      "node_id": "ZON_0107",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 82.596,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0109",
+      "node_id": "ZON_0109",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 28.27,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0112",
+      "node_id": "ZON_0112",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 47.88,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0117",
+      "node_id": "ZON_0117",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 34.405,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0128",
+      "node_id": "ZON_0128",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Sanayi yogun_bakim_hastanesi",
+      "critical_demand_m3h": 36.392,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0129",
+      "node_id": "ZON_0129",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 35.619,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0144",
+      "node_id": "ZON_0144",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 24.169,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0155",
+      "node_id": "ZON_0155",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 13.139,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0165",
+      "node_id": "ZON_0165",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 17.694,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0167",
+      "node_id": "ZON_0167",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 27.179,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0168",
+      "node_id": "ZON_0168",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 23.372,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0175",
+      "node_id": "ZON_0175",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 14.204,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0182",
+      "node_id": "ZON_0182",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 24.191,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0194",
+      "node_id": "ZON_0194",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 58.487,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0195",
+      "node_id": "ZON_0195",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 19.934,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0201",
+      "node_id": "ZON_0201",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 82.269,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0208",
+      "node_id": "ZON_0208",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 22.292,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0209",
+      "node_id": "ZON_0209",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 36.557,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0210",
+      "node_id": "ZON_0210",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 8.633,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0221",
+      "node_id": "ZON_0221",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 52.494,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0224",
+      "node_id": "ZON_0224",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 38.528,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0225",
+      "node_id": "ZON_0225",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 20.574,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0230",
+      "node_id": "ZON_0230",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 63.249,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0240",
+      "node_id": "ZON_0240",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 16.807,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0250",
+      "node_id": "ZON_0250",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 32.039,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0252",
+      "node_id": "ZON_0252",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 54.438,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0258",
+      "node_id": "ZON_0258",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 55.436,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0265",
+      "node_id": "ZON_0265",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 19.452,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0276",
+      "node_id": "ZON_0276",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 41.781,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0283",
+      "node_id": "ZON_0283",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 77.357,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0286",
+      "node_id": "ZON_0286",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 101.631,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0292",
+      "node_id": "ZON_0292",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 55.778,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0301",
+      "node_id": "ZON_0301",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Sanayi yogun_bakim_hastanesi",
+      "critical_demand_m3h": 21.062,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0306",
+      "node_id": "ZON_0306",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 119.629,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0307",
+      "node_id": "ZON_0307",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 90.649,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0332",
+      "node_id": "ZON_0332",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 41.316,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0336",
+      "node_id": "ZON_0336",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 29.758,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0337",
+      "node_id": "ZON_0337",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 22.988,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0345",
+      "node_id": "ZON_0345",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 45.74,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0349",
+      "node_id": "ZON_0349",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 22.538,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0351",
+      "node_id": "ZON_0351",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 8.794,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0352",
+      "node_id": "ZON_0352",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 46.029,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0353",
+      "node_id": "ZON_0353",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 14.331,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0354",
+      "node_id": "ZON_0354",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Sanayi yogun_bakim_hastanesi",
+      "critical_demand_m3h": 16.789,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0361",
+      "node_id": "ZON_0361",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 246.863,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0363",
+      "node_id": "ZON_0363",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 71.487,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0366",
+      "node_id": "ZON_0366",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 125.453,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0370",
+      "node_id": "ZON_0370",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 8.762,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0375",
+      "node_id": "ZON_0375",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 21.172,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0378",
+      "node_id": "ZON_0378",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 35.516,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0388",
+      "node_id": "ZON_0388",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 22.026,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0406",
+      "node_id": "ZON_0406",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 99.34,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0414",
+      "node_id": "ZON_0414",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 37.555,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0416",
+      "node_id": "ZON_0416",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 21.652,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0422",
+      "node_id": "ZON_0422",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 30.524,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0430",
+      "node_id": "ZON_0430",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 52.781,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0445",
+      "node_id": "ZON_0445",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 36.251,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0448",
+      "node_id": "ZON_0448",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 42.157,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0451",
+      "node_id": "ZON_0451",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 113.974,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0453",
+      "node_id": "ZON_0453",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 67.573,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0456",
+      "node_id": "ZON_0456",
+      "facility_type": "hastane",
+      "facility_name": "Sanayi hastane",
+      "critical_demand_m3h": 48.091,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0505",
+      "node_id": "ZON_0505",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 64.307,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0515",
+      "node_id": "ZON_0515",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 30.871,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0526",
+      "node_id": "ZON_0526",
+      "facility_type": "hastane",
+      "facility_name": "Dogu hastane",
+      "critical_demand_m3h": 38.835,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0534",
+      "node_id": "ZON_0534",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Sanayi yogun_bakim_hastanesi",
+      "critical_demand_m3h": 75.87,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0549",
+      "node_id": "ZON_0549",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Sanayi diyaliz_merkezi",
+      "critical_demand_m3h": 8.85,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0550",
+      "node_id": "ZON_0550",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Dogu kritik_sanayi_tesisi",
+      "critical_demand_m3h": 72.389,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0560",
+      "node_id": "ZON_0560",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Dogu yogun_bakim_hastanesi",
+      "critical_demand_m3h": 25.231,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0563",
+      "node_id": "ZON_0563",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Dogu acil_saglik_tesisi",
+      "critical_demand_m3h": 31.06,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0566",
+      "node_id": "ZON_0566",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 21.478,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0567",
+      "node_id": "ZON_0567",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 32.68,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0569",
+      "node_id": "ZON_0569",
+      "facility_type": "yogun_bakim_hastanesi",
+      "facility_name": "Sanayi yogun_bakim_hastanesi",
+      "critical_demand_m3h": 42.617,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0571",
+      "node_id": "ZON_0571",
+      "facility_type": "acil_saglik_tesisi",
+      "facility_name": "Sanayi acil_saglik_tesisi",
+      "critical_demand_m3h": 38.39,
+      "priority_level": 3
+    },
+    {
+      "zone_id": "ZON_0585",
+      "node_id": "ZON_0585",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 10.503,
+      "priority_level": 2
+    },
+    {
+      "zone_id": "ZON_0589",
+      "node_id": "ZON_0589",
+      "facility_type": "diyaliz_merkezi",
+      "facility_name": "Dogu diyaliz_merkezi",
+      "critical_demand_m3h": 5.041,
+      "priority_level": 1
+    },
+    {
+      "zone_id": "ZON_0592",
+      "node_id": "ZON_0592",
+      "facility_type": "kritik_sanayi_tesisi",
+      "facility_name": "Sanayi kritik_sanayi_tesisi",
+      "critical_demand_m3h": 65.845,
+      "priority_level": 3
+    }
+  ]
+}

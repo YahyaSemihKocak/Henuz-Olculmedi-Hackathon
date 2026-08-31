@@ -1,0 +1,79 @@
+{
+  "instance_id": "QUBO_SMALL_12P",
+  "demand_m3h": 1025.2,
+  "max_capacity_m3h": 1148.2,
+  "pumps": [
+    {
+      "pump_id": "QP_00",
+      "name": "Kucuk sebeke terfi 00",
+      "capacity_m3h": 152.9,
+      "cost_tl": 762.8
+    },
+    {
+      "pump_id": "QP_01",
+      "name": "Kucuk sebeke terfi 01",
+      "capacity_m3h": 209.8,
+      "cost_tl": 1361.3
+    },
+    {
+      "pump_id": "QP_02",
+      "name": "Kucuk sebeke terfi 02",
+      "capacity_m3h": 108.0,
+      "cost_tl": 630.5
+    },
+    {
+      "pump_id": "QP_03",
+      "name": "Kucuk sebeke terfi 03",
+      "capacity_m3h": 199.0,
+      "cost_tl": 1176.1
+    },
+    {
+      "pump_id": "QP_04",
+      "name": "Kucuk sebeke terfi 04",
+      "capacity_m3h": 128.7,
+      "cost_tl": 458.0
+    },
+    {
+      "pump_id": "QP_05",
+      "name": "Kucuk sebeke terfi 05",
+      "capacity_m3h": 120.2,
+      "cost_tl": 848.3
+    },
+    {
+      "pump_id": "QP_06",
+      "name": "Kucuk sebeke terfi 06",
+      "capacity_m3h": 292.9,
+      "cost_tl": 1105.5
+    },
+    {
+      "pump_id": "QP_07",
+      "name": "Kucuk sebeke terfi 07",
+      "capacity_m3h": 165.1,
+      "cost_tl": 1138.8
+    },
+    {
+      "pump_id": "QP_08",
+      "name": "Kucuk sebeke terfi 08",
+      "capacity_m3h": 314.6,
+      "cost_tl": 1802.3
+    },
+    {
+      "pump_id": "QP_09",
+      "name": "Kucuk sebeke terfi 09",
+      "capacity_m3h": 142.5,
+      "cost_tl": 840.7
+    },
+    {
+      "pump_id": "QP_10",
+      "name": "Kucuk sebeke terfi 10",
+      "capacity_m3h": 284.5,
+      "cost_tl": 1186.8
+    },
+    {
+      "pump_id": "QP_11",
+      "name": "Kucuk sebeke terfi 11",
+      "capacity_m3h": 110.4,
+      "cost_tl": 613.5
+    }
+  ]
+}
