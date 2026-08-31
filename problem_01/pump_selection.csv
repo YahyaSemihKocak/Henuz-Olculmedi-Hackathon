@@ -1,0 +1,13 @@
+pump_id,name,capacity_m3h,cost_tl,selected
+QP_00,Kucuk sebeke terfi 00,152.9,762.8,1
+QP_01,Kucuk sebeke terfi 01,209.8,1361.3,0
+QP_02,Kucuk sebeke terfi 02,108.0,630.5,0
+QP_03,Kucuk sebeke terfi 03,199.0,1176.1,1
+QP_04,Kucuk sebeke terfi 04,128.7,458.0,1
+QP_05,Kucuk sebeke terfi 05,120.2,848.3,0
+QP_06,Kucuk sebeke terfi 06,292.9,1105.5,1
+QP_07,Kucuk sebeke terfi 07,165.1,1138.8,0
+QP_08,Kucuk sebeke terfi 08,314.6,1802.3,0
+QP_09,Kucuk sebeke terfi 09,142.5,840.7,0
+QP_10,Kucuk sebeke terfi 10,284.5,1186.8,1
+QP_11,Kucuk sebeke terfi 11,110.4,613.5,0

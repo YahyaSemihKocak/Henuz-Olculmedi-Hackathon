@@ -1,0 +1,37 @@
+{
+    "problem_id": "problem_01",
+    "instance_id": "QUBO_SMALL_12P",
+    "objective_value": 4689.2,
+    "runtime_sec": 0.6761,
+    "penalty_weights": {
+        "alpha": 100.0,
+        "beta": 100.0
+    },
+    "qubo_energy": 4697.200000047684,
+    "slack_bits": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "n_variables": 34,
+    "notes": "Simulated Annealing solution. Total capacity: 1058.0 m3/h"
+}
