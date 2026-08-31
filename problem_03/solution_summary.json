@@ -1,0 +1,29 @@
+{
+  "problem_id": "problem_03",
+  "objective_value": 20374671.78,
+  "lp_lower_bound": 14306185.25,
+  "optimality_gap_pct": 42.42,
+  "runtime_sec": 214.35,
+  "method": "LP relaxation (PuLP/CBC) -> fractional core -> dual-guided CQM -> D-Wave annealing -> CBC verification (Q-LNS)",
+  "sampler": "LeapHybridCQMSampler",
+  "anneal_calls": 2,
+  "lns_rounds": 2,
+  "accepted_moves": 2,
+  "repair_rounds": 0,
+  "core_size": 215,
+  "n_sources_active": 82,
+  "n_pumps_on": 178,
+  "unmet_demand_m3h": 0.0,
+  "service_rate_pct": 100.0,
+  "min_flow_violation": 0.0,
+  "feasible": true,
+  "penalty_weights": {
+    "Pi_tal": 25000.0,
+    "Pi_min": 100.0,
+    "Pi_kri": 800.0,
+    "Pi_tuk": 25.0,
+    "rho": 0.001,
+    "tau": 0.002,
+    "sigma_hed": 1.0
+  }
+}
