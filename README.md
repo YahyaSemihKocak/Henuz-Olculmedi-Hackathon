@@ -62,7 +62,3 @@ Planlama dönemi sonunda depoların tükenmemesini sağlamak amacıyla:
 $$V_{d,T} \ge V_{d,0}, \quad \forall d \in \mathcal{D}$$
 
 ---
-
-## ⚛️ Kuantum-Klasik Hibrit Mimari
-
-Sistem mimarisi, klasik doğrusal programlama çözücüleri ile kuadratik kuantum çözücüleri bir araya getiren iki aşamalı bir yapıya sahiptir:
